@@ -1,0 +1,829 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<registryObjects xmlns="http://ands.org.au/standards/rif-cs/registryObjects" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ands.org.au/standards/rif-cs/registryObjects https://researchdata.edu.au/documentation/rifcs/schema/registryObjects.xsd">
+<registryObject group="Griffith University">
+    <key>griffith.edu.au/individual:n392a4496784fa12f13ffcf1196e26f4a</key>
+    <originatingSource>https://griffith.edu.au</originatingSource>
+    <activity type="project">
+      <identifier type="uri">http://experts.griffith.edu.au/individual/n392a4496784fa12f13ffcf1196e26f4a</identifier>
+      <name type="primary">
+        <namePart>Queensland Films 1930-1960: From the Talkies to Television</namePart>
+      </name>
+      <location>
+        <address>
+          <electronic type="url">
+            <value>http://experts.griffith.edu.au/individual/n392a4496784fa12f13ffcf1196e26f4a</value>
+          </electronic>
+        </address>
+      </location>
+      <existenceDates>
+        <startDate dateFormat="W3CDTF">2007-07-01T00:00:00Z</startDate>
+        <endDate dateFormat="W3CDTF">2009-12-31T00:00:00Z</endDate>
+      </existenceDates>
+      <relatedObject>
+        <key>griffith.edu.au/individual:n7898f4eb59f9faf097449b7b2405cc5e</key>
+        <relation type="isManagedBy"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/individual:n11643136ac072dbe8e197f90d41919f2</key>
+        <relation type="hasOutput"/>
+      </relatedObject>
+      <subject type="anzsrc-rfcd">410302</subject>
+      <subject type="anzsrc-rfcd">430101</subject>
+      <subject type="anzsrc-seo">751003</subject>
+      <subject type="anzsrc-seo">750802</subject>
+      <description type="brief">Project Status: Completed. Funded By: Q150 Community Funding program.</description>
+      <rights>
+        <rightsStatement>Unless otherwise indicated, works by Griffith University Scholars are © Griffith University. For further details please refer to the University Intellectual Property Policy at http://policies.griffith.edu.au/Research/Intellectual-Property/.</rightsStatement>
+      </rights>
+    </activity>
+  </registryObject>
+<registryObject group="Griffith University">
+    <key>griffith.edu.au/individual:n35b66e941c44b8ea4287c8a44c957270</key>
+    <originatingSource>http://griffith.edu.au</originatingSource>
+    <activity type="project">
+      <identifier type="uri">http://research-hub.griffith.edu.au/individual/n35b66e941c44b8ea4287c8a44c957270</identifier>
+      <name type="primary">
+        <namePart>PPBio Australasia - Karawatha</namePart>
+      </name>
+      <location>
+        <address>
+          <electronic type="url">
+            <value>http://research-hub.griffith.edu.au/individual/n35b66e941c44b8ea4287c8a44c957270</value>
+          </electronic>
+        </address>
+      </location>
+      <relatedObject>
+        <key>griffith.edu.au/individual:n4ffca8652d264360f4bbcd67df24fffb</key>
+        <relation type="isManagedBy"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/individual:na6164600ad6df4ece12c606d9ef544f4</key>
+        <relation type="hasOutput"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/individual:n900b1845f9c23cdde3490e262a7500cf</key>
+        <relation type="hasParticipant"/>
+      </relatedObject>
+      <subject type="anzsrc-for">0502</subject>
+      <subject type="anzsrc-for">0501</subject>
+      <description type="brief">Project Status: Proceeding, </description>
+      <relatedInfo>
+        <identifier type="uri">http://www.brisbane.qld.gov.au</identifier>
+        <title>Collaborator Website</title>
+      </relatedInfo>
+      <relatedInfo type="website">
+        <identifier type="uri">http://www.griffith.edu.au/ppbio</identifier>
+      </relatedInfo>
+      <relatedInfo>
+        <identifier type="uri">http://www.seqcatchments.com.au/</identifier>
+        <title>Collaborator Website</title>
+      </relatedInfo>
+    </activity>
+  </registryObject>
+<registryObject group="Griffith University">
+    <key>griffith.edu.au/individual:n146e8bc57e955d5c908efc690fe3269c</key>
+    <originatingSource type="">http://griffith.edu.au</originatingSource>
+    <activity type="project">
+      <name type="primary">
+        <namePart>Tropical Rivers and Coastal Knowledge Research Hub: Queensland Node</namePart>
+      </name>
+      <description type="brief">&amp;lt;p&amp;gt;TRaCK stands for Tropical Rivers and Coastal Knowledge. The hub aims to provide the science and knowledge that governments, communities and industries need for the sustainable management of Australia's tropical rivers and estuaries. It's main objectives are to: Increase understanding of the environmental, cultural, economic and social benefits provided by tropical rivers and estuaries; Develop methods and tools for assessing the implications of current use and future scenarios; Identify opportunities to develop sustainable enterprises; and Build the capacity and knowledge of the community to manage Australia's tropical rivers and estuaries.&amp;lt;/p&amp;gt;</description>
+      <description type="note">&amp;lt;p&amp;gt;In addition, TRaCK established a companion facility called the TRaCK Atlas. &amp;lt;/p&amp;gt;</description>
+      <identifier type="uri">http://research-hub.griffith.edu.au/individual/n146e8bc57e955d5c908efc690fe3269c</identifier>
+      <location>
+        <address>
+          <electronic type="url">
+            <value>http://research-hub.griffith.edu.au/individual/n146e8bc57e955d5c908efc690fe3269c</value>
+          </electronic>
+        </address>
+      </location>
+      <coverage>
+        <temporal>
+          <date type="dateFrom" dateFormat="W3CDTF">2007-01-01T00:01:00Z</date>
+          <date type="dateTo" dateFormat="W3CDTF">2010-01-01T00:01:00Z</date>
+        </temporal>
+      </coverage>
+      <relatedObject>
+        <key>griffith.edu.au/individual:n722ebd164331f1502618c81629807302</key>
+        <relation type="isManagedBy"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/individual:nfa9ffbdd73b93f7d00341d7d65b5ebe5</key>
+        <relation type="hasOutput"/>
+      </relatedObject>
+      <relatedInfo type="website">
+        <title>TRaCK Website</title>
+        <identifier type="uri">https://riel.cdu.edu.au/programs/track-tropical-rivers-and-coastal-knowledge</identifier>
+      </relatedInfo>
+      <existenceDates>
+        <startDate dateFormat="W3CDTF">2007-01-01T00:01:00Z</startDate>
+        <endDate dateFormat="W3CDTF">2010-01-01T00:01:00Z</endDate>
+      </existenceDates>
+    </activity>
+  </registryObject>
+<registryObject group="Griffith University">
+    <key>griffith.edu.au/individual:n149a87fde92dd71b61fb1075953d3c64</key>
+    <originatingSource>https://griffith.edu.au</originatingSource>
+    <activity type="project">
+      <identifier type="uri">http://experts.griffith.edu.au/individual/n149a87fde92dd71b61fb1075953d3c64</identifier>
+      <name type="primary">
+        <namePart>Program for Planned Biodiversity Studies (Ppbio) - Karawatha Forest 2009-2012</namePart>
+      </name>
+      <location>
+        <address>
+          <electronic type="url">
+            <value>http://experts.griffith.edu.au/individual/n149a87fde92dd71b61fb1075953d3c64</value>
+          </electronic>
+        </address>
+      </location>
+      <existenceDates>
+        <startDate dateFormat="W3CDTF">2009-07-01T00:00:00Z</startDate>
+        <endDate dateFormat="W3CDTF">2013-12-31T00:00:00Z</endDate>
+      </existenceDates>
+      <relatedObject>
+        <key>griffith.edu.au/individual:n4ffca8652d264360f4bbcd67df24fffb</key>
+        <relation type="isManagedBy"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/individual:na6164600ad6df4ece12c606d9ef544f4</key>
+        <relation type="hasOutput"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/individual:n900b1845f9c23cdde3490e262a7500cf</key>
+        <relation type="hasParticipant"/>
+      </relatedObject>
+      <subject type="anzsrc-rfcd">270708</subject>
+      <subject type="anzsrc-rfcd">279901</subject>
+      <subject type="anzsrc-seo">770101</subject>
+      <subject type="anzsrc-seo">770403</subject>
+      <description type="brief">Project Status: Completed. Funded By: Brisbane City Council Grant.</description>
+      <rights>
+        <rightsStatement>Unless otherwise indicated, works by Griffith University Scholars are © Griffith University. For further details please refer to the University Intellectual Property Policy at http://policies.griffith.edu.au/Research/Intellectual-Property/.</rightsStatement>
+      </rights>
+    </activity>
+  </registryObject>
+<registryObject group="Griffith University">
+    <key>griffith.edu.au/individual:n06113c464e480c62e2aae5cb32d3f1b5</key>
+    <originatingSource>https://griffith.edu.au</originatingSource>
+    <activity type="project">
+      <identifier type="arc">LP0990569</identifier>
+      <identifier type="uri">http://experts.griffith.edu.au/individual/n06113c464e480c62e2aae5cb32d3f1b5</identifier>
+      <name type="primary">
+        <namePart>Both Smart and Healthy: Learning Communities as a Settings-based Approaches to Health Promotion</namePart>
+      </name>
+      <location>
+        <address>
+          <electronic type="url">
+            <value>http://experts.griffith.edu.au/individual/n06113c464e480c62e2aae5cb32d3f1b5</value>
+          </electronic>
+        </address>
+      </location>
+      <existenceDates>
+        <startDate dateFormat="W3CDTF">2009-07-23T00:00:00Z</startDate>
+        <endDate dateFormat="W3CDTF">2016-06-30T00:00:00Z</endDate>
+      </existenceDates>
+      <relatedObject>
+        <key>griffith.edu.au/individual:n83b9bb1f0e0539a960bea4b4f55ca6c6</key>
+        <relation type="isManagedBy"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/individual:n76290a819b0a24c4cfd1cd2838cfb75c</key>
+        <relation type="hasOutput"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/individual:n054d7c4ffe62029944e6cfb53eacb9d7</key>
+        <relation type="hasParticipant"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/individual:nf08dccb7e12833436f8ffe12c6e9b527</key>
+        <relation type="hasParticipant"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/individual:ncd47abe41a37c4f666a0dd26abe9a374</key>
+        <relation type="hasParticipant"/>
+      </relatedObject>
+      <subject type="anzsrc-for">111712</subject>
+      <subject type="anzsrc-rfcd">321214</subject>
+      <subject type="anzsrc-rfcd">321216</subject>
+      <subject type="anzsrc-seo">730301</subject>
+      <description type="brief">This project will use a collaborative learning model to build health promotion
+capacity. The project brings together two innovative approaches to develop new
+knowledge about how setting-based approaches to health can be implemented in
+future. This approach could potentially address chronic disease at a national
+and international level by promoting healthy communities that can effectively
+manage chronic disease through collaborative learning and knowledge-building.
+The project represents an important collaboration between a university and its
+community with a view to improving health capacity.</description>
+      <description type="note">Project Status: Proceeding. Funded By: ARC Linkage - Projects (and/or APAI).</description>
+      <rights>
+        <rightsStatement>Unless otherwise indicated, works by Griffith University Scholars are © Griffith University. For further details please refer to the University Intellectual Property Policy at http://policies.griffith.edu.au/Research/Intellectual-Property/.</rightsStatement>
+      </rights>
+    </activity>
+  </registryObject>
+<registryObject group="Griffith University">
+    <key>griffith.edu.au/individual:n19da28ec6725522e91e70393a62bd2f1</key>
+    <originatingSource>https://griffith.edu.au</originatingSource>
+    <activity type="project">
+      <identifier type="uri">http://experts.griffith.edu.au/individual/n19da28ec6725522e91e70393a62bd2f1</identifier>
+      <name type="primary">
+        <namePart>Olfactory ensheathing cells: a major contributor to axon guidance?</namePart>
+      </name>
+      <location>
+        <address>
+          <electronic type="url">
+            <value>http://experts.griffith.edu.au/individual/n19da28ec6725522e91e70393a62bd2f1</value>
+          </electronic>
+        </address>
+      </location>
+      <existenceDates>
+        <startDate dateFormat="W3CDTF">2008-01-01T00:00:00Z</startDate>
+        <endDate dateFormat="W3CDTF">2010-12-31T00:00:00Z</endDate>
+      </existenceDates>
+      <relatedObject>
+        <key>griffith.edu.au/individual:nd9bb22cd8481f5d58388632d58039400</key>
+        <relation type="isManagedBy"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/individual:nf5bf13510ba183fdf5ccc0374c0d7a0b</key>
+        <relation type="hasOutput"/>
+      </relatedObject>
+      <subject type="anzsrc-seo">730104</subject>
+      <subject type="anzsrc-for">110906</subject>
+      <subject type="anzsrc-for">1109</subject>
+      <subject type="anzsrc-rfcd">320705</subject>
+      <subject type="anzsrc-for">11</subject>
+      <description type="brief">The olfactory (smell) system is a unique part of the nervous system because
+nerve cells are generated throughout life. Understanding how the olfactory
+system grows and regenerates may lead to therapeutic approaches to repair
+other regions of the nervous system. This project will use high resolution
+digital time-lapse imaging of living nerve cells and the specialised cells
+called olfactory ensheathing cells to determine how the behaviour of these
+cells can be manipulated to improve regeneration.</description>
+      <description type="note">Project Status: Completed. Funded By: NHMRC - Project Grants.</description>
+      <rights>
+        <rightsStatement>Unless otherwise indicated, works by Griffith University Scholars are © Griffith University. For further details please refer to the University Intellectual Property Policy at http://policies.griffith.edu.au/Research/Intellectual-Property/.</rightsStatement>
+      </rights>
+    </activity>
+  </registryObject>
+<registryObject group="Griffith University">
+    <key>griffith.edu.au/individual:n47c4eddefadb447d3c3f08f0f451ee8a</key>
+    <originatingSource>https://griffith.edu.au</originatingSource>
+    <activity type="project">
+      <identifier type="uri">http://experts.griffith.edu.au/individual/n47c4eddefadb447d3c3f08f0f451ee8a</identifier>
+      <name type="primary">
+        <namePart>Stories from the split: memories, confessions and evaluations of a political struggle</namePart>
+      </name>
+      <location>
+        <address>
+          <electronic type="url">
+            <value>http://experts.griffith.edu.au/individual/n47c4eddefadb447d3c3f08f0f451ee8a</value>
+          </electronic>
+        </address>
+      </location>
+      <existenceDates>
+        <startDate dateFormat="W3CDTF">2001-01-01T00:00:00Z</startDate>
+        <endDate dateFormat="W3CDTF">2004-08-24T00:00:00Z</endDate>
+      </existenceDates>
+      <relatedObject>
+        <key>griffith.edu.au/individual:nab8c9bb766ab60573c3f189299a26b9b</key>
+        <relation type="isManagedBy"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/individual:nf9cfd67d6d4f0420be7e87beb0ef2b17</key>
+        <relation type="hasOutput"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/individual:n7898f4eb59f9faf097449b7b2405cc5e</key>
+        <relation type="hasParticipant"/>
+      </relatedObject>
+      <subject type="anzsrc-seo">750104</subject>
+      <subject type="anzsrc-seo">750901</subject>
+      <subject type="anzsrc-rfcd">440207</subject>
+      <subject type="anzsrc-rfcd">430101</subject>
+      <subject type="anzsrc-rfcd">360101</subject>
+      <subject type="anzsrc-seo">750401</subject>
+      <description type="brief">Project Status: Completed. Funded By: ARC Large Grants.</description>
+      <rights>
+        <rightsStatement>Unless otherwise indicated, works by Griffith University Scholars are © Griffith University. For further details please refer to the University Intellectual Property Policy at http://policies.griffith.edu.au/Research/Intellectual-Property/.</rightsStatement>
+      </rights>
+    </activity>
+  </registryObject>
+<registryObject group="Griffith University">
+    <key>griffith.edu.au/individual:n99565d94b072aa4d075f5edd06dc3e2c</key>
+    <originatingSource>https://griffith.edu.au</originatingSource>
+    <activity type="project">
+      <identifier type="arc">DP1095425</identifier>
+      <identifier type="uri">http://experts.griffith.edu.au/individual/n99565d94b072aa4d075f5edd06dc3e2c</identifier>
+      <name type="primary">
+        <namePart>The development of copper-free click chemistry to label biomolecules within living cells</namePart>
+      </name>
+      <location>
+        <address>
+          <electronic type="url">
+            <value>http://experts.griffith.edu.au/individual/n99565d94b072aa4d075f5edd06dc3e2c</value>
+          </electronic>
+        </address>
+      </location>
+      <existenceDates>
+        <startDate dateFormat="W3CDTF">2010-01-01T00:00:00Z</startDate>
+        <endDate dateFormat="W3CDTF">2012-12-31T00:00:00Z</endDate>
+      </existenceDates>
+      <relatedObject>
+        <key>griffith.edu.au/individual:nfbf1b1dd8d08bffa98122ec5a833e325</key>
+        <relation type="isManagedBy"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/individual:n00301afcf0a49c1515fedf7f2b3188ce</key>
+        <relation type="hasOutput"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/individual:n97e36e9d8d144ef8009fd03b19b5418a</key>
+        <relation type="hasParticipant"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/individual:ne69bbe199ae10e8a1e0009367f4d14dd</key>
+        <relation type="hasParticipant"/>
+      </relatedObject>
+      <subject type="anzsrc-rfcd">270199</subject>
+      <subject type="anzsrc-for">0305</subject>
+      <subject type="anzsrc-rfcd">250301</subject>
+      <subject type="anzsrc-seo">780103</subject>
+      <description type="brief">Understanding how cells work is central to modern advances in biomedical
+science, however many cellular processes are invisible to the researcher
+because of a lack of appropriate tools. This proposal will apply modern
+chemistry approaches to the design of new chemical tools for visualising
+biomolecules within living cells and for investigating cell function. This
+project brings together experts in chemistry, stem cells and malaria and has
+applications for development of much needed new therapeutics. This research
+will advance biomedical research and generate new discoveries for a
+competitive advantage for Australian science, with potential economic return
+for the nation.</description>
+      <description type="note">Project Status: Completed. Funded By: ARC Discovery Projects (including Fellowship).</description>
+      <rights>
+        <rightsStatement>Unless otherwise indicated, works by Griffith University Scholars are © Griffith University. For further details please refer to the University Intellectual Property Policy at http://policies.griffith.edu.au/Research/Intellectual-Property/.</rightsStatement>
+      </rights>
+    </activity>
+  </registryObject>
+<registryObject group="Griffith University">
+    <key>griffith.edu.au/individual:n38136feedb4619bb9955aef0e95e5cb9</key>
+    <originatingSource>http://griffith.edu.au</originatingSource>
+    <activity type="project">
+      <identifier type="uri">http://research-hub.griffith.edu.au/individual/n38136feedb4619bb9955aef0e95e5cb9</identifier>
+      <name type="primary">
+        <namePart>The Braided Channels creative research project - Part Two</namePart>
+      </name>
+      <location>
+        <address>
+          <electronic type="url">
+            <value>http://research-hub.griffith.edu.au/individual/n38136feedb4619bb9955aef0e95e5cb9</value>
+          </electronic>
+        </address>
+      </location>
+      <relatedObject>
+        <key>griffith.edu.au/individual:nf66455993d75005065f9bc07e3a83c9b</key>
+        <relation type="isManagedBy"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/individual:nbd766e42f83316de706a68cd7711e851</key>
+        <relation type="hasOutput"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/individual:nbce74d0c2b65d03fcad23285b3c4da9c</key>
+        <relation type="hasParticipant"/>
+      </relatedObject>
+      <subject type="anzsrc-seo">950503</subject>
+      <subject type="anzsrc-for">1902</subject>
+      <description type="brief">The Braided Channels creative research project is constructed from some seventy hours of oral history interviews with women of Australia&amp;acirc;&amp;euro;&amp;trade;s Channel Country, together with archival film &amp;photographs, music and artwork. It explores the capacities of digital technologies to facilitate new versions of the &amp;acirc;&amp;euro;&amp;tilde;documentary project&amp;acirc;&amp;euro;&amp;trade; and uses visual metaphors to give local and personal stories a wider resonance. It is &amp;acirc;&amp;euro;&amp;tilde;relational art&amp;acirc;&amp;euro;&amp;trade; (Bourriaud 2002) where the artwork comprises all its associated events and elements and the cultural connections it facilitated. It is also an example of &amp;acirc;&amp;euro;&amp;tilde;shared history&amp;acirc;&amp;euro;&amp;trade; (Goodall 2002), bringing Indigenous and non-Indigenous Australians into the same frame through &amp;acirc;&amp;euro;&amp;tilde;place&amp;acirc;&amp;euro;&amp;trade;. It includes the underlying Oral History Archive, the Channels of History social history exhibition, the Durham Downs broadcast documentary (in development) and research articles in the fields of historiography; museology; and documentary studies. The Heritage Trails Network funded the creation of the social history exhibition, Channels of History that started at the State Library of Queensland, then travelled to nine other venues between 2002-2005. The funding was critical to the creation of the final research outcome. Key contributors included Georgina Greenhill, David Huggett, Julie Hornsey, Erika Addis and Jonathan Richards.</description>
+      <description type="note">Project Status: Completed, </description>
+      <relatedInfo type="website">
+        <identifier type="uri">http://hdl.handle.net/10072/2425</identifier>
+      </relatedInfo>
+      <relatedInfo type="website">
+        <identifier type="uri">http://hdl.handle.net/10072/2921</identifier>
+      </relatedInfo>
+      <relatedInfo type="publication">
+        <identifier type="uri">http://hdl.handle.net/10072/30720</identifier>
+        <title>Related journal article</title>
+      </relatedInfo>
+    </activity>
+  </registryObject>
+<registryObject group="Griffith University">
+    <key>griffith.edu.au/individual:n8a0583b8b9a46a593096e8e48eb08c6b</key>
+    <originatingSource>https://griffith.edu.au</originatingSource>
+    <activity type="project">
+      <identifier type="arc">LP0219666</identifier>
+      <identifier type="uri">http://experts.griffith.edu.au/individual/n8a0583b8b9a46a593096e8e48eb08c6b</identifier>
+      <name type="primary">
+        <namePart>The development and evaluation of an online support system for mental health workers in rural, remote and regional areas</namePart>
+      </name>
+      <location>
+        <address>
+          <electronic type="url">
+            <value>http://experts.griffith.edu.au/individual/n8a0583b8b9a46a593096e8e48eb08c6b</value>
+          </electronic>
+        </address>
+      </location>
+      <existenceDates>
+        <startDate dateFormat="W3CDTF">2003-01-01T00:00:00Z</startDate>
+        <endDate dateFormat="W3CDTF">2006-12-31T00:00:00Z</endDate>
+      </existenceDates>
+      <relatedObject>
+        <key>griffith.edu.au/individual:n7de11df4722f31b67e158106d76e7e57</key>
+        <relation type="isManagedBy"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/individual:n493f27294628441c5cca804a16adc7d5</key>
+        <relation type="hasAssociationWith"/>
+      </relatedObject>
+      <subject type="anzsrc-rfcd">291799</subject>
+      <subject type="anzsrc-rfcd">370105</subject>
+      <subject type="anzsrc-for">1608</subject>
+      <subject type="anzsrc-for">16</subject>
+      <subject type="anzsrc-rfcd">321204</subject>
+      <subject type="anzsrc-for">111714</subject>
+      <subject type="anzsrc-seo">751099</subject>
+      <description type="brief">Suicide has been estimated to cost Australia over $460 million/year. Rural
+suicide workers have mulitfaceted roles pivotal to their communities' social
+well being, yet suffer professional isolation and inadequate access to
+resources and expertise through geographic remoteness. Online technologies
+potentially offer effective support mechanisms. This research will increase
+fundamental knowledge by: * developing, implementing and rigorously evaluating
+the effectiveness and transferability of an innovative online model for
+professional support and expertise; and * systematically addressing the
+complex ethical, professional and technical issues associated with using
+online technology to assist suicide reduction.</description>
+      <description type="note">Project Status: Completed. Funded By: ARC Linkage - Projects (and/or APAI).</description>
+      <rights>
+        <rightsStatement>Unless otherwise indicated, works by Griffith University Scholars are © Griffith University. For further details please refer to the University Intellectual Property Policy at http://policies.griffith.edu.au/Research/Intellectual-Property/.</rightsStatement>
+      </rights>
+    </activity>
+  </registryObject>
+<registryObject group="Griffith University">
+    <key>griffith.edu.au/individual:nfa44836e73fcbb05db6b95fd2b23e216</key>
+    <originatingSource>http://griffith.edu.au</originatingSource>
+    <activity type="project">
+      <identifier type="uri">http://research-hub.griffith.edu.au/individual/nfa44836e73fcbb05db6b95fd2b23e216</identifier>
+      <name type="primary">
+        <namePart>Stories from the split: memories, confessions and evaluations of a political struggle.</namePart>
+      </name>
+      <location>
+        <address>
+          <electronic type="url">
+            <value>http://research-hub.griffith.edu.au/individual/nfa44836e73fcbb05db6b95fd2b23e216</value>
+          </electronic>
+        </address>
+      </location>
+      <relatedObject>
+        <key>griffith.edu.au/individual:n7898f4eb59f9faf097449b7b2405cc5e</key>
+        <relation type="isManagedBy"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/individual:n2913a4180f5a97fb88628a31e01a6de5</key>
+        <relation type="isManagedBy"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/individual:nf9cfd67d6d4f0420be7e87beb0ef2b17</key>
+        <relation type="hasOutput"/>
+      </relatedObject>
+      <subject type="anzsrc-rfcd">430101</subject>
+      <subject type="anzsrc-seo">750901</subject>
+      <subject type="anzsrc-seo">750401</subject>
+      <subject type="anzsrc-seo">750104</subject>
+      <subject type="anzsrc-rfcd">440207</subject>
+      <description type="brief">Stories from the Split formed one of two key elements in an ARC supported research project undertaken in conjunction with Professor Ross Fitzgerald and drawing on the visual/written history methodology explored in two earlier collaborations by the co-investigators.   
+
+
+
+Stories from the Split : Memories, Confessions and Evaluations of a Political Struggle set out to document and analyse the events and issues surrounding the split in the Australian Labor Party in the 1950s. While this political and social upheaval had been covered in works primarily based on archival documents and journalistic sources, the approach of the project was grounded in substantial reflective oral history interviews and the gathering of  memorabilia and visual records from participants from a range of political institutions and perspectives. The key outcomes of the project were Professor Fitzgerald's  book length study The Pope's Battalions : Santamaria, Catholicism and the Labor Split and the oral history documentary Stories from the Split: the Struggle for the Souls of Australian Workers.  The primary aims of this project were to produce a comprehensive analytical written and audiovisual history of the clash of ideologies, individuals, organisations and events which culminated in 'the Split' in the Australian Labor Party in the 1950s; and to assess the continuing impacts of its legacy. This  contributed to the understanding of the process and outcome of these events and to wider debates concerning the roles and the effects of extra-parliamentary political organisations and the relations between Communism and Catholicism.</description>
+      <description type="note">Project Status: Completed, Funded By: ARC Discovery Projects (including Fellowship), </description>
+    </activity>
+  </registryObject>
+<registryObject group="Griffith University">
+    <key>griffith.edu.au/individual:nefabbe566f6d50a24e23b22722419dfd</key>
+    <originatingSource>https://griffith.edu.au</originatingSource>
+    <activity type="project">
+      <identifier type="uri">http://experts.griffith.edu.au/individual/nefabbe566f6d50a24e23b22722419dfd</identifier>
+      <name type="primary">
+        <namePart>Adult Stem Cell Transplantation Therapy in Parkinsonian Rat</namePart>
+      </name>
+      <location>
+        <address>
+          <electronic type="url">
+            <value>http://experts.griffith.edu.au/individual/nefabbe566f6d50a24e23b22722419dfd</value>
+          </electronic>
+        </address>
+      </location>
+      <existenceDates>
+        <startDate dateFormat="W3CDTF">2006-01-01T00:00:00Z</startDate>
+        <endDate dateFormat="W3CDTF">2009-12-31T00:00:00Z</endDate>
+      </existenceDates>
+      <relatedObject>
+        <key>griffith.edu.au/individual:n97e36e9d8d144ef8009fd03b19b5418a</key>
+        <relation type="isManagedBy"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/individual:n776351fef91073c7a8f123c432929a80</key>
+        <relation type="hasOutput"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/individual:n474d5359275443b304fb85fc6a21b757</key>
+        <relation type="hasOutput"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/individual:nee6c416b4f196ddbb160e39531ebb349</key>
+        <relation type="hasOutput"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/individual:nc9ba3759e6c7f4abdb8f9d9fdc582a75</key>
+        <relation type="hasOutput"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/individual:nf85aec61cc973f4a43a522c888e74328</key>
+        <relation type="hasOutput"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/individual:nab0236446b90d187878802a05e5b53aa</key>
+        <relation type="hasOutput"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/individual:n7699153280f12fadab192c13d980c83a</key>
+        <relation type="hasOutput"/>
+      </relatedObject>
+      <subject type="anzsrc-for">1109</subject>
+      <subject type="anzsrc-rfcd">320799</subject>
+      <subject type="anzsrc-seo">730104</subject>
+      <subject type="anzsrc-for">11</subject>
+      <subject type="anzsrc-for">110999</subject>
+      <description type="brief">Parkinson's disease is a progressive neurodegenerative disorder characterised
+by slowness of movement, muscle rigidity and tremor. It affects about 1% of
+the population at age 50 and 10% over age 80. Symptoms are caused by low
+levels of dopamine, a chemical in the brain that helps control movement. The
+symptoms increase in severity with time, leading to increasing difficulty in
+walking, speaking, writing, swallowing and sleeping and increasing the
+incidence of broken bones from falls. Parkinson's disease is incurable but the
+symptoms can be controlled with medications that replace the lost dopamine.
+Medications become less effective as the disease progresses and there is need
+for new therapies. Worldwide the hunt is on to discover new cell
+transplantation therapies to replace the dopamine in the brain and to prevent
+degeneration of the still surviving dopamine cells. Although embryonic stem
+cells might be useful for such therapies, they raise the risk of tumour
+formation from the transplanted cells. This aim of this proposal is to test,
+in parkinsonian rat, a therapy in which adult stem cells from the patient are
+transplanted into their own brain to provide a new source of dopamine. We have
+discovered a new and unique source of adult stem cells, the sense organ of
+smell in the nose. Small samples can be taken through the nose and we can grow
+these adult stem cells from people of all ages, including people with
+Parkinson's disease. As adult stem cells they avoid the ethical issues
+associated with embryonic stem cell transplantation and as cells from the same
+patient, they are not rejected by the immune system. This is being tested in
+principle by a world-first clinical trial in which we are taking another cell
+type from the nose, growing it in the lab, and transplanting into the injured
+spinal cord in a search for a cure for paraplegia. This project takes the
+first steps to developing a new treatment for Parkinson's disease using a
+patient's own adult stem cells.</description>
+      <description type="note">Project Status: Completed. Funded By: NHMRC - Project Grants.</description>
+      <rights>
+        <rightsStatement>Unless otherwise indicated, works by Griffith University Scholars are © Griffith University. For further details please refer to the University Intellectual Property Policy at http://policies.griffith.edu.au/Research/Intellectual-Property/.</rightsStatement>
+      </rights>
+    </activity>
+  </registryObject>
+<registryObject group="Griffith University">
+    <key>griffith.edu.au/individual:n6b1061f33eddf0fd6b4e94473e2dce8b</key>
+    <originatingSource>https://griffith.edu.au</originatingSource>
+    <activity type="project">
+      <identifier type="arc">DP0558922</identifier>
+      <identifier type="uri">http://experts.griffith.edu.au/individual/n6b1061f33eddf0fd6b4e94473e2dce8b</identifier>
+      <name type="primary">
+        <namePart>An Investigation into Suicidal Behaviours by Males during the Process of Marital and De Facto Separation.</namePart>
+      </name>
+      <location>
+        <address>
+          <electronic type="url">
+            <value>http://experts.griffith.edu.au/individual/n6b1061f33eddf0fd6b4e94473e2dce8b</value>
+          </electronic>
+        </address>
+      </location>
+      <existenceDates>
+        <startDate dateFormat="W3CDTF">2005-01-01T00:00:00Z</startDate>
+        <endDate dateFormat="W3CDTF">2008-12-31T00:00:00Z</endDate>
+      </existenceDates>
+      <relatedObject>
+        <key>griffith.edu.au/individual:n7de11df4722f31b67e158106d76e7e57</key>
+        <relation type="isManagedBy"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/individual:n493f27294628441c5cca804a16adc7d5</key>
+        <relation type="hasAssociationWith"/>
+      </relatedObject>
+      <subject type="anzsrc-rfcd">321021</subject>
+      <subject type="anzsrc-for">1117</subject>
+      <subject type="anzsrc-seo">730220</subject>
+      <subject type="anzsrc-rfcd">321214</subject>
+      <subject type="anzsrc-seo">730202</subject>
+      <subject type="anzsrc-rfcd">321202</subject>
+      <subject type="anzsrc-seo">730219</subject>
+      <subject type="anzsrc-for">11</subject>
+      <description type="brief">The project has a likelihood of reducing rates of fatal and non-fatal suicidal
+behaviour by high-risk groups such as males aged 25 - 44, and growing
+Australian populations such as the separated/divorced. The anticipated saving
+of lives, injuries, and mental distress is expected to achieve substantial and
+sustainable cutback in individual, corporate and public expenditure on mental
+health, injury control and suicide prevention by government, community and
+corporate agencies. Time and personnel resources utilised by the police,
+ambulance, coroner, hospital, and insurance departments can be diverted from
+highly preventable suicides to other areas.</description>
+      <description type="note">Project Status: Completed. Funded By: ARC Discovery Projects (including Fellowship).</description>
+      <rights>
+        <rightsStatement>Unless otherwise indicated, works by Griffith University Scholars are © Griffith University. For further details please refer to the University Intellectual Property Policy at http://policies.griffith.edu.au/Research/Intellectual-Property/.</rightsStatement>
+      </rights>
+      <relatedInfo type="website">
+        <identifier type="uri">http://hdl.handle.net/10072/26026</identifier>
+        <title>Related journal article</title>
+      </relatedInfo>
+    </activity>
+  </registryObject>
+<registryObject group="Griffith University">
+    <key>griffith.edu.au/individual:nb914d9811687d110505fa41abe46b44b</key>
+    <originatingSource>https://griffith.edu.au</originatingSource>
+    <activity type="project">
+      <identifier type="arc">DP0881331</identifier>
+      <identifier type="uri">http://experts.griffith.edu.au/individual/nb914d9811687d110505fa41abe46b44b</identifier>
+      <name type="primary">
+        <namePart>Beyond pyschopathology: Pathways to suicide in mentally well young adult males</namePart>
+      </name>
+      <location>
+        <address>
+          <electronic type="url">
+            <value>http://experts.griffith.edu.au/individual/nb914d9811687d110505fa41abe46b44b</value>
+          </electronic>
+        </address>
+      </location>
+      <existenceDates>
+        <startDate dateFormat="W3CDTF">2008-01-01T00:00:00Z</startDate>
+        <endDate dateFormat="W3CDTF">2011-12-31T00:00:00Z</endDate>
+      </existenceDates>
+      <relatedObject>
+        <key>griffith.edu.au/individual:n7de11df4722f31b67e158106d76e7e57</key>
+        <relation type="isManagedBy"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/individual:n493f27294628441c5cca804a16adc7d5</key>
+        <relation type="hasAssociationWith"/>
+      </relatedObject>
+      <subject type="anzsrc-rfcd">321021</subject>
+      <subject type="anzsrc-for">111714</subject>
+      <subject type="anzsrc-rfcd">321214</subject>
+      <subject type="anzsrc-for">11</subject>
+      <subject type="anzsrc-for">1117</subject>
+      <subject type="anzsrc-rfcd">321204</subject>
+      <description type="brief">Increased knowledge of risk factors for suicide among mentally well males can
+lead to better informed preventive health policies, earlier intervention and
+community education. The tragic impacts of suicide lead to long-term societal
+problems which result in disconnection and alienation, particularly for those
+who are left behind; findings from this study will assist development of
+initiatives aimed at increasing social connectedness and awareness. Also,
+males compose the predominant workforce in Australia and the costs saved as a
+result of effective prevention initiatives may be enormous, given that
+economic costs to suicide are estimated at 900 million dollars annually.</description>
+      <description type="note">Project Status: Completed. Funded By: ARC Discovery Projects (including Fellowship).</description>
+      <rights>
+        <rightsStatement>Unless otherwise indicated, works by Griffith University Scholars are © Griffith University. For further details please refer to the University Intellectual Property Policy at http://policies.griffith.edu.au/Research/Intellectual-Property/.</rightsStatement>
+      </rights>
+    </activity>
+  </registryObject>
+<registryObject group="Griffith University">
+    <key>griffith.edu.au/individual:na4e8824bb496b57766a3c2213325eb02</key>
+    <originatingSource>http://griffith.edu.au</originatingSource>
+    <activity type="project">
+      <identifier type="uri">http://research-hub.griffith.edu.au/individual/na4e8824bb496b57766a3c2213325eb02</identifier>
+      <name type="primary">
+        <namePart>The Braided Channels creative research project: Part One</namePart>
+      </name>
+      <location>
+        <address>
+          <electronic type="url">
+            <value>http://research-hub.griffith.edu.au/individual/na4e8824bb496b57766a3c2213325eb02</value>
+          </electronic>
+        </address>
+      </location>
+      <relatedObject>
+        <key>griffith.edu.au/individual:nf66455993d75005065f9bc07e3a83c9b</key>
+        <relation type="isManagedBy"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/individual:nbd766e42f83316de706a68cd7711e851</key>
+        <relation type="hasOutput"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/individual:nbce74d0c2b65d03fcad23285b3c4da9c</key>
+        <relation type="hasParticipant"/>
+      </relatedObject>
+      <subject type="anzsrc-seo">950503</subject>
+      <subject type="anzsrc-for">1902</subject>
+      <description type="brief">The Braided Channels creative research project is constructed from some seventy hours of oral history interviews with women of Australiaâ€™s Channel Country, together with archival film &amp;photographs, music and artwork. It explores the capacities of digital technologies to facilitate new versions of the â€˜documentary projectâ€™ and uses visual metaphors to give local and personal stories a wider resonance. It is â€˜relational artâ€™ (Bourriaud 2002) where the artwork comprises all its associated events and elements and the cultural connections it facilitated. It is also an example of â€˜shared historyâ€™ (Goodall 2002), bringing Indigenous and non-Indigenous Australians into the same frame through â€˜placeâ€™. It includes the underlying Oral History Archive, the Channels of History social history exhibition, the Durham Downs broadcast documentary (in development) and research articles in the fields of historiography; museology; and documentary studies.
+
+
+
+The Centenary of Federation funding supported the creation and digitisation of the oral history archive. It includes the digitisation of 27 interviews that were filmed and sound recorded across outback and rural Queensland, Brisbane and Sydney.
+
+
+
+Key contributors to the project include Georgina Greenhill, David Huggett, Julie Hornsey, Erika Addis, Jonathan Richards and Ashleigh Harding.</description>
+      <description type="note">Project Status: Completed, </description>
+      <relatedInfo type="website">
+        <identifier type="uri">http://hdl.handle.net/10072/2425</identifier>
+      </relatedInfo>
+      <relatedInfo type="publication">
+        <identifier type="uri">http://hdl.handle.net/10072/30720</identifier>
+        <title>Related journal article</title>
+      </relatedInfo>
+      <relatedInfo type="website">
+        <identifier type="uri">http://hdl.handle.net/10072/2921</identifier>
+      </relatedInfo>
+    </activity>
+  </registryObject>
+<registryObject group="Griffith University">
+    <key>griffith.edu.au/individual:n2375a264fc2b5977da19f3c827518e22</key>
+    <originatingSource>http://griffith.edu.au</originatingSource>
+    <activity type="project">
+      <identifier type="uri">http://research-hub.griffith.edu.au/individual/n2375a264fc2b5977da19f3c827518e22</identifier>
+      <name type="primary">
+        <namePart>Domestic Water End Use Study - High Resolution Water Measurement</namePart>
+      </name>
+      <location>
+        <address>
+          <electronic type="url">
+            <value>http://research-hub.griffith.edu.au/individual/n2375a264fc2b5977da19f3c827518e22</value>
+          </electronic>
+        </address>
+      </location>
+      <coverage>
+        <temporal>
+          <date type="dateFrom" dateFormat="W3CDTF">2010-01-01T00:09:00Z</date>
+        </temporal>
+      </coverage>
+      <existenceDates>
+        <startDate dateFormat="W3CDTF">2010-01-01T00:09:00Z</startDate>
+      </existenceDates>
+      <relatedObject>
+        <key>griffith.edu.au/individual:n263e9f491d552c781e04416c0499f599</key>
+        <relation type="isManagedBy"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/individual:n36ad0e31eab63ccc6b8bf034f643a148</key>
+        <relation type="hasOutput"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/individual:n76da4f2ffd8d8c57fba276d9c0d0096e</key>
+        <relation type="hasOutput"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/individual:n664c8651983757fe78ea1152fb07eea5</key>
+        <relation type="hasOutput"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/individual:n177a5cea0018a999c2200f9f88835ec6</key>
+        <relation type="hasOutput"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/individual:ne047a4ebdf1b099b21b97cfc4f28740c</key>
+        <relation type="hasOutput"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/individual:n628556bf3088e4c4d9372317c1294769</key>
+        <relation type="hasOutput"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/individual:nc129e266a99ff1f28d98ce5d0f5c9b0a</key>
+        <relation type="hasOutput"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/individual:n361ce8d6cea67950ab9a12edf4c83060</key>
+        <relation type="hasOutput"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/individual:ne00283042a10c15f2a5eebdd624ad285</key>
+        <relation type="hasOutput"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/individual:n75fd62224375c112a18d7f4161b7536f</key>
+        <relation type="hasOutput"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/individual:nea4b76c7ac4865ff40f95b6e46ae93f7</key>
+        <relation type="hasOutput"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/individual:n5cd1d92b1205a79ea3b7319bf30f36e6</key>
+        <relation type="hasParticipant"/>
+      </relatedObject>
+      <subject type="anzsrc-for">040608</subject>
+      <description type="brief">This project focuses on the capture of high resolution data from a sensor network comprised of 320 remote nodes (data loggers) situated between the Sunshine and Gold Coasts in the South East Queensland Corridor.  The loggers are configured to batch scheduled readings in a weekly upload via email. This project replaced standard council water meters with "Smart Meters" that can record very small volumes of water at 5 second intervals. This data will be stored in state-of-the-art data loggers and sent, via email, to a remote computer for analysis.  End use data analysis will be conducted using a special programme that can identify water use patterns of specific end uses such as toilets, dishwashers and showers. 
+
+
+
+The meters have the capacity to deliver high resolution end use data that will provide information to planners and water engineers to understand why, how and when water is being utilised. This will facilitate the proactive management of water resources.</description>
+      <description type="note">Project Status: Proceeding, </description>
+    </activity>
+  </registryObject>
+</registryObjects>
