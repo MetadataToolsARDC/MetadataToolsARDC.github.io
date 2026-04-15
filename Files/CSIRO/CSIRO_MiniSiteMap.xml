@@ -3,10 +3,5 @@
     <url>
         <loc>https://data.csiro.au/collection/csiro:63771</loc>
     </url>
-    <url>
-        <loc>https://daptst.csiro.au/collection/csiro:100211v1</loc>
-        <!--  https://data.csiro.au/dap/ws/v2/collections/csiro:63783/metadata/schemaOrg.json
-          Describe -->
-    </url>
 </urlset>
 
