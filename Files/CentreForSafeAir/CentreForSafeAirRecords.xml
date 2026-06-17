@@ -1,0 +1,615 @@
+<root>
+    <eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:stmml="http://www.xml-cml.org/schema/stmml-1.2" packageId="19eeb785-1009-4bf7-9e36-a3063b279991" system="uuid" xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://eml.ecoinformatics.org/eml-2.2.0/eml.xsd">
+        <protocol id="service_123">
+            <alternateIdentifier system='url'>https://napmd.cloud.car-dat.org/__docs__/</alternateIdentifier>
+            <shortName>API_for_accessing_NAPMD_National_Air_Pollution_Monitor_Database</shortName>
+            <title>API_for_accessing_NAPMD_National_Air_Pollution_Monitor_Database</title>
+            <creator>
+                <organizationName>Centre for Safe Air (CSA)</organizationName>
+                <onlineUrl>https://safeair.org.au/</onlineUrl>
+            </creator>
+            <creator>
+                <individualName>
+                    <givenName>Ivan</givenName>
+                    <surName>Hanigan</surName>
+                </individualName>
+                <userId directory="ORCID">https://orcid.org/0000-0002-6360-6793</userId>
+            </creator> 
+            <creator>
+                <individualName>
+                    <givenName>Grant</givenName>
+                    <surName>Williamson</surName>
+                </individualName>
+                <userId directory="ORCID">https://orcid.org/0000-0002-3469-7550</userId>
+            </creator>
+            <metadataProvider>
+                <positionName>CARDAT Data Team</positionName>
+                <electronicMailAddress>car.data@curtin.edu.au</electronicMailAddress>
+            </metadataProvider>
+            <pubDate>2023-11-29</pubDate>
+            <abstract>A web API to access the CARDAT NAPMD (National Air Pollution Monitor Database). NAPMD Is the quality checked and corrected historical hourly air quality data (including PM2.5, NO2, ozone, etc) from government monitor stations across Australia. The API has a number of useful functions eg. querying the database for various pollutants by site or for all sites across a whole state. For examples on how to use this API, please visit the following GitHub Repo: https://github.com/cardat/napmdtools.</abstract>
+            <intellectualRights>NSW data: If you are using this data in scientific publications, please cite: Riley M, Kirkwood J, Jiang N, Ross G and Scorgie Y. 'Air quality monitoring in NSW: From long term trend monitoring to integrated urban services'. Air Quality &amp; Climate Change. 2020; 54(1): 44-51&#13;
+                &#13;
+                See https://www.dpie.nsw.gov.au/air-quality/data-licence-statement for further details&#13;
+                &#13;
+                WA data: These data may only be used for research purposes and may not be used for commercial reasons.&#13;
+                &#13;
+                ACT data: data usage reporting required</intellectualRights>
+            <coverage>
+                <geographicCoverage>
+                    <geographicDescription>Australia</geographicDescription>
+                    <boundingCoordinates>
+                        <westBoundingCoordinate>96.8169</westBoundingCoordinate>
+                        <eastBoundingCoordinate>167.998</eastBoundingCoordinate>
+                        <northBoundingCoordinate>-9.1422</northBoundingCoordinate>
+                        <southBoundingCoordinate>-43.7405</southBoundingCoordinate>
+                    </boundingCoordinates>
+                </geographicCoverage>
+                <temporalCoverage>
+                    <rangeOfDates>
+                        <beginDate>
+                            <calendarDate>1990-01-01</calendarDate>
+                        </beginDate>
+                        <endDate>
+                            <calendarDate>2021-01-01</calendarDate>
+                        </endDate>
+                    </rangeOfDates>
+                </temporalCoverage>
+                <taxonomicCoverage>
+                    <taxonomicClassification>
+                        <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Planet and People</taxonRankValue>
+                    </taxonomicClassification>
+                </taxonomicCoverage>
+            </coverage>
+            <proceduralStep>
+                <description></description>
+            </proceduralStep>
+            <!-- id="296">
+      <title>Air_Pollution_Monitoring_Stations_National_RESTRICTED</title>
+      <personnel>
+        <organizationName>CAR</organizationName>
+        <organizationName>CRE</organizationName>
+        <organizationName>NHMRC</organizationName>
+        <role>principalInvestigator</role>
+      </personnel>
+      <abstract>National air pollution monitor datasets and documentation</abstract>
+      <funding>
+        <section>
+          <title>activity</title>
+          <para>
+            <value>Bushfire Data Challenge project BDC008 Award from ARDC</value>
+            <ulink url="https://doi.org/10.47486/DC008"></ulink>
+          </para>
+        </section>
+      </funding>
+    </-->
+        </protocol>
+        <additionalMetadata id="https://napmd.cloud.car-dat.org/__docs__/">
+            <metadata>
+                <referencePublication>Centre for Safe Air (2023) API for accessing NAPMD National Air Pollution Monitor Database Hourly compiled by the CARDAT team from the regulatory monitor data from NSW DPIE, Vic EPA, Qld DES, SA EPA, WA DEWR, Tas EPA, NT EPA, and ACT Health. CAR. (Dataset). </referencePublication>
+            </metadata>
+        </additionalMetadata>
+    </eml:eml>
+    <eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:stmml="http://www.xml-cml.org/schema/stmml-1.2" packageId="19eeb785-1009-4bf7-9e36-a3063b279991" system="uuid" xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://eml.ecoinformatics.org/eml-2.2.0/eml.xsd">
+        <dataset id="datinv_591">
+            <alternateIdentifier system="https://doi.org/">https://doi.org/10.17605/OSF.IO/JXD98</alternateIdentifier>
+            <shortName>National_Air_Pollution_Monitoring_Database</shortName>
+            <title>National Air Pollution Monitoring Database</title>
+            <creator>
+                <organizationName>
+                    <value>Centre for Safe Air</value>
+                </organizationName>
+                <onlineUrl>https://safeair.org.au/</onlineUrl>
+                <userId directory="https://ror.org/">https://ror.org/04ccf0j10</userId>
+            </creator>
+            <associatedParty>
+                <organizationName>
+                    <value>Centre for Safe Air</value>
+                </organizationName>
+                <onlineUrl>https://safeair.org.au/</onlineUrl>
+                <userId directory="https://ror.org/">https://ror.org/04ccf0j10</userId>
+                <role>owner</role>
+            </associatedParty>
+            <pubDate>2020-09-22</pubDate>
+            <abstract>The Australian National Air Pollution Monitoring Database (NAPMD) was consolidated by the NHMRC Centre for Air pollution, energy and health Research (CAR) and is maintained by the Centre for Safe Air (CSA) via the CARDAT platform. It aims to standardise the national collection of data from all government air pollution monitors in Australia.  
+                
+                All states/territories and all pollutants for government regulatory monitoring data were initially collected to cover the 1990s to 2020. Newer data continues to be collected and added to the database. Available years vary by state. For more information see https://cardat.github.io/napmdtools/.</abstract>
+            <intellectualRights>NSW data: If you are using this data in scientific publications, please cite: Riley M, Kirkwood J, Jiang N, Ross G and Scorgie Y. 'Air quality monitoring in NSW: From long term trend monitoring to integrated urban services'. Air Quality &amp; Climate Change. 2020; 54(1): 44-51
+                
+                See https://www.dpie.nsw.gov.au/air-quality/data-licence-statement for further details
+                
+                WA data: These data may only be used for research purposes and may not be used for commercial reasons.
+                
+                ACT data: data usage reporting required</intellectualRights>
+            <distribution id="service_123">
+                <online>
+                    <url>https://napmd.cloud.car-dat.org/__docs__/</url>
+                </online>
+            </distribution>
+            <coverage>
+                <geographicCoverage>
+                    <geographicDescription>Australia</geographicDescription>
+                    <boundingCoordinates>
+                        <westBoundingCoordinate>114.6323</westBoundingCoordinate>
+                        <eastBoundingCoordinate>153.4023</eastBoundingCoordinate>
+                        <northBoundingCoordinate>-12.4248</northBoundingCoordinate>
+                        <southBoundingCoordinate>-43.17</southBoundingCoordinate>
+                    </boundingCoordinates>
+                </geographicCoverage>
+                <temporalCoverage>
+                    <rangeOfDates>
+                        <beginDate>
+                            <calendarDate>1979-01-01</calendarDate>
+                        </beginDate>
+                        <endDate>
+                            <calendarDate>2024-12-31</calendarDate>
+                        </endDate>
+                    </rangeOfDates>
+                </temporalCoverage>
+                <taxonomicCoverage>
+                    <taxonomicClassification>
+                        <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Planet and People</taxonRankValue>
+                    </taxonomicClassification>
+                </taxonomicCoverage>
+            </coverage>
+            <contact>
+                <positionName>CARDAT Data Team</positionName>
+                <electronicMailAddress>car.data@curtin.edu.au</electronicMailAddress>
+            </contact>
+            <publisher>
+                <organizationName>CARDAT Data Platform</organizationName>
+            </publisher>
+            <project id="137">
+                <title>Air_Pollution_Monitoring_Stations_National</title>
+                <personnel>
+                    <organizationName>
+                        <value>Centre for Safe Air</value>
+                    </organizationName>
+                    <onlineUrl>https://safeair.org.au/</onlineUrl>
+                    <userId directory="https://ror.org/">https://ror.org/04ccf0j10</userId>
+                    <role>principalInvestigator</role>
+                </personnel>
+                <abstract>National air pollution monitor datasets and documentation - data collated from state and territory agencies.</abstract>
+                <funding><para><value>The National Air Pollution Monitoring Database was supported by the Centre for Safe Air, funded by the National Health and Medical Research Council (NHMRC Grant No. 2015584) and the HEAL Network (NHMRC Grant No. 2008937), as well as additional funding from the following sources:
+                            
+                            - ARDC Bushfire Data Challenge "Assessing the impact of bushfire smoke on health" https://doi.org/10.47486/DC008. (2021)
+                            - ARDC Public Sector Bridges Program "Integrated National Air Pollution and Health Data" https://doi.org/10.47486/PS022 (2021)
+                </value></para>
+                    <section>
+                        <title>activity</title>
+                        <para>
+                            <value>DC008 Award from ARDC</value>
+                            <ulink url="https://doi.org/10.47486/DC008"/>
+                        </para>
+                    </section>
+                    <section>
+                        <title>activity</title>
+                        <para>
+                            <value>PS022 Award from ARDC</value>
+                            <ulink url="https://doi.org/10.47486/PS022"/>
+                        </para>
+                    </section>
+                    <section>
+                        <title>activity</title>
+                        <para>
+                            <value>Support from Centre for Safe Air, funded by NHMRC Grant No. 2015584</value>
+                            <ulink url="http://purl.org/au-research/grants/nhmrc/2015584"/>
+                        </para>
+                    </section>
+                    <section>
+                        <title>activity</title>
+                        <para>
+                            <value>Support from HEAL Network, funded by NHMRC Grant No. 2008937</value>
+                            <ulink url="http://purl.org/au-research/grants/nhmrc/2008937"/>
+                        </para>
+                    </section>
+                </funding>
+            </project>
+        </dataset>
+        <additionalMetadata id="https://doi.org/10.17605/OSF.IO/JXD98">
+            <describes>datinv_591</describes>
+            <metadata>
+                <citeAs>Centre for Safe Air, 2021. National Air Pollution Monitoring Database, derived from regulatory monitor data from NSW DPE, Vic EPA, Qld DES, SA EPA, WA DWER, Tas EPA, NT EPA, and ACT Health. Downloaded from the Centre for Safe Air [accessed YYYY-MM-DD] DOI 10.17605/OSF.IO/JXD98</citeAs>
+            </metadata>
+        </additionalMetadata>
+    </eml:eml>
+    <eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:stmml="http://www.xml-cml.org/schema/stmml-1.2" packageId="4ccca3d8-3dc0-41b6-a13e-677f6b429046" system="uuid" xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://eml.ecoinformatics.org/eml-2.2.0/eml.xsd">
+        <dataset id="datinv_813">
+            <alternateIdentifier system="https://doi.org/">https://doi.org/10.17605/OSF.IO/WQK4T</alternateIdentifier>
+            <shortName>Total_and_Bushfire_specific_PM25_Aus_2001_2020_v1_3</shortName>
+            <title>Total_and_Bushfire_specific_PM25_Aus_2001_2020_v1_3</title>
+            <creator>
+                <individualName>
+                    <givenName>Ivan</givenName>
+                    <surName>Hanigan</surName>
+                </individualName>
+                <userId directory="https://orcid.org/">https://orcid.org/0000-0002-6360-6793</userId>
+            </creator>
+            <creator>
+                <individualName>
+                    <givenName>Cassandra</givenName>
+                    <surName>Yuen</surName>
+                </individualName>
+                <userId directory="https://orcid.org/">https://orcid.org/0000-0001-5433-6018</userId>
+            </creator>
+            <creator>
+                <individualName>
+                    <givenName>Karthik</givenName>
+                    <surName>Gopi</surName>
+                </individualName>
+                <userId directory="https://orcid.org/">https://orcid.org/0000-0002-7489-6618</userId>
+            </creator>
+            <creator>
+                <individualName>
+                    <givenName>Nicolas</givenName>
+                    <surName>Borchers-Arriagada</surName>
+                </individualName>
+                <userId directory="https://orcid.org/">https://orcid.org/0000-0001-8973-5692</userId>
+            </creator>
+            <creator>
+                <individualName>
+                    <givenName>Joseph</givenName>
+                    <surName>Van Buskirk</surName>
+                </individualName>
+                <userId directory="https://orcid.org/">https://orcid.org/0000-0003-0313-3784</userId>
+            </creator>
+            <creator>
+                <individualName>
+                    <givenName>Geoffrey</givenName>
+                    <surName>Morgan</surName>
+                </individualName>
+                <userId directory="https://orcid.org/">https://orcid.org/0000-0003-4046-2405</userId>
+            </creator>
+            <associatedParty>
+                <individualName>
+                    <givenName>Ivan</givenName>
+                    <surName>Hanigan</surName>
+                </individualName>
+                <userId directory="https://orcid.org/">https://orcid.org/0000-0002-6360-6793</userId>
+                <role>owner</role>
+            </associatedParty>
+            <associatedParty>
+                <individualName>
+                    <givenName>Geoffrey</givenName>
+                    <surName>Morgan</surName>
+                </individualName>
+                <userId directory="https://orcid.org/">https://orcid.org/0000-0003-4046-2405</userId>
+                <role>owner</role>
+            </associatedParty>
+            <pubDate>2023-05-04</pubDate>
+            <abstract>This dataset contains daily total PM2.5 predictions for Australia from 2001 to 2020 based on a random forest model. A decomposition of total PM2.5 to allow for estimation of bushfire-specific PM2.5 is also included. This is version 1.3 of the CAR Bushfire Smoke Exposure project, superseding v1.2.
+                
+                A Seasonal-Trend decomposition using LOESS (STL) decomposition was calculated for years 2001-2019, using a seasonal window of 45. Due to the abnormal levels of PM2.5 in January 2020 from severe bushfires, the year 2020 was not included in the STL calculation. However, the decomposition was extrapolated to 2020 using 2019 seasonal and trend values.
+                
+                Flags for classifying days of high PM2.5 (e.g. dust event, bushfire event) were taken from v1.2. As the v1.2 prediction grid was slightly smaller than that of v1.3, an extrapolation was performed on the flags to cover coastal pixels.
+                
+                The creator acknowledges the Sydney Informatics Hub and the University of Sydney’s high performance computing cluster Artemis for providing the high performance computing resources that have contributed to the production of this dataset.
+                
+                This research was undertaken with the assistance of resources from the Clean Air and health Research Data and Analysis Technology platform (CARDAT), which is supported by funds from The Centre for Safe Air (CSA; https://safeair.org.au/), which is funded by the National Health and Medical Research Council (2015584), the Curtin WHO Collaborating Centre for Climate Change and Health Impact Assessment, and the Australian Research Data Commons (ARDC) AirHealth Data Bridges project (https://doi.org/10.47486/PS022). The Bushfire Smoke Exposure project received seed funding project support from the CSA, as well as the ARDC Bushfire Data Challenges project (https://ardc.edu.au/project/assessing-the-impact-of-bushfire-smoke-on-health/) and the Australian National Health and Medical Research Council (APP2004514) Ideas Grant - Bushfire smoke exposure during pregnancy and epigenetic changes in offspring (https://www.nhmrc.gov.au/funding/find-funding/ideas-grants).</abstract>
+            <intellectualRights>Data available on request, subject to approval by data providers.
+                
+                An offer of co-authorship with the data provider of any publication of research utilising this data is an expected outcome.
+                
+                The data provider (Ivan Hanigan and Geoff Morgan) requests consultation, including a summary of the proposed research and intended use before publication of research utilising this data is possible. See the Data sharing and co-authorship policy (https://cardat.github.io/bushfire_pm25_v1_3_tools/dataset-licencing.html) for further details.</intellectualRights>
+            <coverage>
+                <geographicCoverage>
+                    <geographicDescription>Australia</geographicDescription>
+                    <boundingCoordinates>
+                        <westBoundingCoordinate>109.4334</westBoundingCoordinate>
+                        <eastBoundingCoordinate>157.3291</eastBoundingCoordinate>
+                        <northBoundingCoordinate>-8.1564</northBoundingCoordinate>
+                        <southBoundingCoordinate>-44.4058</southBoundingCoordinate>
+                    </boundingCoordinates>
+                </geographicCoverage>
+                <temporalCoverage>
+                    <rangeOfDates>
+                        <beginDate>
+                            <calendarDate>2001-01-01</calendarDate>
+                        </beginDate>
+                        <endDate>
+                            <calendarDate>2020-06-30</calendarDate>
+                        </endDate>
+                    </rangeOfDates>
+                </temporalCoverage>
+                <taxonomicCoverage>
+                    <taxonomicClassification>
+                        <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Planet and People</taxonRankValue>
+                    </taxonomicClassification>
+                </taxonomicCoverage>
+            </coverage>
+            <contact>
+                <positionName>CARDAT Data Team</positionName>
+                <electronicMailAddress>car.data@curtin.edu.au</electronicMailAddress>
+            </contact>
+            <publisher>
+                <organizationName>CARDAT Data Platform</organizationName>
+            </publisher>
+            <project id="281">
+                <title>Bushfire_Smoke_PM_Exposures</title>
+                <personnel>
+                    <individualName>
+                        <givenName>Geoffrey</givenName>
+                        <surName>Morgan</surName>
+                    </individualName>
+                    <userId directory="https://orcid.org/">https://orcid.org/0000-0003-4046-2405</userId>
+                    <role>principalInvestigator</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                        <givenName>Ivan</givenName>
+                        <surName>Hanigan</surName>
+                    </individualName>
+                    <userId directory="https://orcid.org/">https://orcid.org/0000-0002-6360-6793</userId>
+                    <role>principalInvestigator</role>
+                </personnel>
+                <abstract>This project provided nationally consistent bushfire-specific air pollution exposure dataset based on federated Australian air quality data system and GIS predictors such as satellite data, climate and land use. It brings together the vast amount of bushfire smoke air quality related data collected in Australia into a common platform (CARDAT) and provides air pollution exposure mapping, processing and analysis that links this data with population health data. </abstract>
+                <funding><para><value>This project was supported with funds from:
+                            
+                            - Centre for Air pollution health and energy Research seed funding for a Bushfire exposure project for Geoffrey Morgan, Ivan Hanigan, Fay.Johnston and Yuming Guo (2020)
+                            - ARDC Bushfire Data Challenge funding for Ivan Hanigan, Geoff Morgan and Fay Johnston with the National Air Technical Advisory Group (NATAG): Assessing the impact of bushfire smoke on health. Project lead. National Air Quality Technical Advisory Group (NATAG). DOI. https://doi.org/10.47486/DC008. (2021)
+                            - ARDC Public Sector Bridges Program "Integrated National Air Pollution and Health Data" https://doi.org/10.47486/PS022 (2021)
+                            - National Health and Medical Research Council (APP2004514) Ideas Grant "Bushfire smoke exposure during pregnancy and epigenetic changes in offspring", led by Peter Gibson (2021)
+                            
+                            Work was also supported by the Centre for Safe Air, funded by the National Health and Medical Research Council (NHMRC Grant No. 2015584) and the HEAL Network (NHMRC Grant No. 2008937).
+                            
+                            This project builds on data from the validated bushfire smoke data owned by Ivan Hanigan, which was supported by funding grants from the Australian Research Council (LP0882048) and the National Health and Medical Research Council (490057) and the Australian National Data Service (ANDS) SWISH Climate Impacts project (project code AP07).
+                </value></para>
+                    <section>
+                        <title>activity</title>
+                        <para>
+                            <value>DC008 Award from ARDC</value>
+                            <ulink url="https://doi.org/10.47486/DC008"/>
+                        </para>
+                    </section>
+                    <section>
+                        <title>activity</title>
+                        <para>
+                            <value>PS022 Award from ARDC</value>
+                            <ulink url="https://doi.org/10.47486/PS022"/>
+                        </para>
+                    </section>
+                    <section>
+                        <title>activity</title>
+                        <para>
+                            <value>NHMRC Ideas Grant (APP2004514) "Bushfire smoke exposure during pregnancy and epigenetic changes in offspring"</value>
+                        </para>
+                    </section>
+                    <section>
+                        <title>activity</title>
+                        <para>
+                            <value>Support from Centre for Safe Air, funded by NHMRC Grant No. 2015584</value>
+                            <ulink url="http://purl.org/au-research/grants/nhmrc/2015584"/>
+                        </para>
+                    </section>
+                    <section>
+                        <title>activity</title>
+                        <para>
+                            <value>Support from HEAL Network, funded by NHMRC Grant No. 2008937</value>
+                            <ulink url="http://purl.org/au-research/grants/nhmrc/2008937"/>
+                        </para>
+                    </section>
+                    <section>
+                        <title>activity</title>
+                        <para>
+                            <value>Award from NHMRC</value>
+                            <ulink url="http://purl.org/au-research/grants/nhmrc/490057"/>
+                        </para>
+                    </section>
+                    <section>
+                        <title>activity</title>
+                        <para>
+                            <value>Award from ARC</value>
+                            <ulink url="http://purl.org/au-research/grants/arc/LP0882048"/>
+                        </para>
+                    </section>
+                </funding>
+            </project>
+        </dataset>
+        <additionalMetadata id="ResearchProjects_CAR/Bushfire_Smoke_PM_Exposures/Total_and_Bushfire_specific_PM25_Aus_2001_2020_v1_3">
+            <describes>datinv_813</describes>
+            <metadata>
+                <citeAs>Hanigan, I., Yuen, C., Gopi, K., Borchers-Arriagada, N., van Buskirk, J. &amp; Morgan, G. (2023): Bushfire specific PM2.5 output from v1.3 based on satellite and other land use and other predictors for Australia 2001-2020 produced for the CAR Bushfire Smoke Exposures project. CAR. Downloaded from CARDAT (Dataset). https://doi.org/10.17605/OSF.IO/WQK4T</citeAs>
+            </metadata>
+        </additionalMetadata>
+    </eml:eml>
+    <eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:stmml="http://www.xml-cml.org/schema/stmml-1.2" packageId="5e3963b7-0bb5-4d32-af3d-f1742586c4c1" system="uuid" xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://eml.ecoinformatics.org/eml-2.2.0/eml.xsd">
+        <dataset id="datinv_896">
+            <alternateIdentifier system="https://doi.org/">https://doi.org/10.17605/OSF.IO/47C6B</alternateIdentifier>
+            <shortName>Total_and_Bushfire_specific_PM25_Aus_2020_2023_v1_3</shortName>
+            <title>Total_and_Bushfire_specific_PM25_Aus_2020_2023_v1_3</title>
+            <creator>
+                <individualName>
+                    <givenName>Ivan</givenName>
+                    <surName>Hanigan</surName>
+                </individualName>
+                <userId directory="https://orcid.org/">https://orcid.org/0000-0002-6360-6793</userId>
+            </creator>
+            <creator>
+                <individualName>
+                    <givenName>Cassandra</givenName>
+                    <surName>Yuen</surName>
+                </individualName>
+                <userId directory="https://orcid.org/">https://orcid.org/0000-0001-5433-6018</userId>
+            </creator>
+            <creator>
+                <individualName>
+                    <givenName>Karthik</givenName>
+                    <surName>Gopi</surName>
+                </individualName>
+                <userId directory="https://orcid.org/">https://orcid.org/0000-0002-7489-6618</userId>
+            </creator>
+            <creator>
+                <individualName>
+                    <givenName>Nicolas</givenName>
+                    <surName>Borchers-Arriagada</surName>
+                </individualName>
+                <userId directory="https://orcid.org/">https://orcid.org/0000-0001-8973-5692</userId>
+            </creator>
+            <creator>
+                <individualName>
+                    <givenName>Joseph</givenName>
+                    <surName>Van Buskirk</surName>
+                </individualName>
+                <userId directory="https://orcid.org/">https://orcid.org/0000-0003-0313-3784</userId>
+            </creator>
+            <creator>
+                <individualName>
+                    <givenName>Geoffrey</givenName>
+                    <surName>Morgan</surName>
+                </individualName>
+                <userId directory="https://orcid.org/">https://orcid.org/0000-0003-4046-2405</userId>
+            </creator>
+            <associatedParty>
+                <individualName>
+                    <givenName>Ivan</givenName>
+                    <surName>Hanigan</surName>
+                </individualName>
+                <userId directory="https://orcid.org/">https://orcid.org/0000-0002-6360-6793</userId>
+                <role>owner</role>
+            </associatedParty>
+            <associatedParty>
+                <individualName>
+                    <givenName>Geoffrey</givenName>
+                    <surName>Morgan</surName>
+                </individualName>
+                <userId directory="https://orcid.org/">https://orcid.org/0000-0003-4046-2405</userId>
+                <role>owner</role>
+            </associatedParty>
+            <pubDate>2025-05-14</pubDate>
+            <abstract>This dataset contains daily total PM2.5 predictions for Australia from 2020 to 2023 based on the Bushfire Smoke V1.3 random forest model. In addition to PM2.5 predictions, a Seasonal-Trend decomposition using LOESS (STL) decomposition was calculated for years 2021-2023, using a seasonal window of 45. Due to the abnormal levels of PM2.5 in January 2020 from severe bushfires, the year 2020 was not included in the STL calculation. However, the decomposition was extrapolated to 2020 using 2021 seasonal and trend values. Extrapolation was performed to cover coastal pixels, taking the average of adjacent pixels where NA. 
+                
+                The creators acknowledge the Sydney Informatics Hub and the University of Sydney’s high performance computing cluster Artemis for providing the high performance computing resources that have contributed to the production of this dataset. 
+                
+                This research was undertaken with the assistance of resources from the Clean Air and health Research Data and Analysis Technology platform (CARDAT), which is supported by funds from The Centre for Safe Air (CSA; https://safeair.org.au/), which is funded by the National Health and Medical Research Council (2015584), the Curtin WHO Collaborating Centre for Climate Change and Health Impact Assessment, and the Australian Research Data Commons (ARDC) AirHealth Data Bridges project (https://doi.org/10.47486/PS022). The Bushfire Smoke Exposure project received seed funding project support from the CSA, as well as the ARDC Bushfire Data Challenges project (https://ardc.edu.au/project/assessing-the-impact-of-bushfire-smoke-on-health/) and the Australian National Health and Medical Research Council (APP2004514) Ideas Grant - Bushfire smoke exposure during pregnancy and epigenetic changes in offspring (https://www.nhmrc.gov.au/funding/find-funding/ideas-grants).</abstract>
+            <intellectualRights>Data available on request, subject to approval by data providers.
+                
+                An offer of co-authorship with the data provider of any publication of research utilising this data is an expected outcome.
+                
+                The data provider (Ivan Hanigan and Geoff Morgan) requests consultation, including a summary of the proposed research and intended use before publication of research utilising this data is possible. See the Data sharing and co-authorship policy (https://cardat.github.io/bushfire_pm25_v1_3_tools/dataset-licencing.html) for further details.</intellectualRights>
+            <coverage>
+                <geographicCoverage>
+                    <geographicDescription>Australia</geographicDescription>
+                    <boundingCoordinates>
+                        <westBoundingCoordinate>109.4334</westBoundingCoordinate>
+                        <eastBoundingCoordinate>157.3291</eastBoundingCoordinate>
+                        <northBoundingCoordinate>-8.1564</northBoundingCoordinate>
+                        <southBoundingCoordinate>-44.4058</southBoundingCoordinate>
+                    </boundingCoordinates>
+                </geographicCoverage>
+                <temporalCoverage>
+                    <rangeOfDates>
+                        <beginDate>
+                            <calendarDate>2020-01-01</calendarDate>
+                        </beginDate>
+                        <endDate>
+                            <calendarDate>2023-12-31</calendarDate>
+                        </endDate>
+                    </rangeOfDates>
+                </temporalCoverage>
+                <taxonomicCoverage>
+                    <taxonomicClassification>
+                        <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Planet and People</taxonRankValue>
+                    </taxonomicClassification>
+                </taxonomicCoverage>
+            </coverage>
+            <contact>
+                <positionName>CARDAT Data Team</positionName>
+                <electronicMailAddress>car.data@curtin.edu.au</electronicMailAddress>
+            </contact>
+            <publisher>
+                <organizationName>CARDAT Data Platform</organizationName>
+            </publisher>
+            <project id="281">
+                <title>Bushfire_Smoke_PM_Exposures</title>
+                <personnel>
+                    <individualName>
+                        <givenName>Geoffrey</givenName>
+                        <surName>Morgan</surName>
+                    </individualName>
+                    <userId directory="https://orcid.org/">https://orcid.org/0000-0003-4046-2405</userId>
+                    <role>principalInvestigator</role>
+                </personnel>
+                <personnel>
+                    <individualName>
+                        <givenName>Ivan</givenName>
+                        <surName>Hanigan</surName>
+                    </individualName>
+                    <userId directory="https://orcid.org/">https://orcid.org/0000-0002-6360-6793</userId>
+                    <role>principalInvestigator</role>
+                </personnel>
+                <abstract>This project provided nationally consistent bushfire-specific air pollution exposure dataset based on federated Australian air quality data system and GIS predictors such as satellite data, climate and land use. It brings together the vast amount of bushfire smoke air quality related data collected in Australia into a common platform (CARDAT) and provides air pollution exposure mapping, processing and analysis that links this data with population health data. </abstract>
+                <funding><para><value>This project was supported with funds from:
+                            
+                            - Centre for Air pollution health and energy Research seed funding for a Bushfire exposure project for Geoffrey Morgan, Ivan Hanigan, Fay.Johnston and Yuming Guo (2020)
+                            - ARDC Bushfire Data Challenge funding for Ivan Hanigan, Geoff Morgan and Fay Johnston with the National Air Technical Advisory Group (NATAG): Assessing the impact of bushfire smoke on health. Project lead. National Air Quality Technical Advisory Group (NATAG). DOI. https://doi.org/10.47486/DC008. (2021)
+                            - ARDC Public Sector Bridges Program "Integrated National Air Pollution and Health Data" https://doi.org/10.47486/PS022 (2021)
+                            - National Health and Medical Research Council (APP2004514) Ideas Grant "Bushfire smoke exposure during pregnancy and epigenetic changes in offspring", led by Peter Gibson (2021)
+                            
+                            Work was also supported by the Centre for Safe Air, funded by the National Health and Medical Research Council (NHMRC Grant No. 2015584) and the HEAL Network (NHMRC Grant No. 2008937).
+                            
+                            This project builds on data from the validated bushfire smoke data owned by Ivan Hanigan, which was supported by funding grants from the Australian Research Council (LP0882048) and the National Health and Medical Research Council (490057) and the Australian National Data Service (ANDS) SWISH Climate Impacts project (project code AP07).
+                </value></para>
+                    <section>
+                        <title>activity</title>
+                        <para>
+                            <value>DC008 Award from ARDC</value>
+                            <ulink url="https://doi.org/10.47486/DC008"/>
+                        </para>
+                    </section>
+                    <section>
+                        <title>activity</title>
+                        <para>
+                            <value>PS022 Award from ARDC</value>
+                            <ulink url="https://doi.org/10.47486/PS022"/>
+                        </para>
+                    </section>
+                    <section>
+                        <title>activity</title>
+                        <para>
+                            <value>NHMRC Ideas Grant (APP2004514) "Bushfire smoke exposure during pregnancy and epigenetic changes in offspring"</value>
+                        </para>
+                    </section>
+                    <section>
+                        <title>activity</title>
+                        <para>
+                            <value>Support from Centre for Safe Air, funded by NHMRC Grant No. 2015584</value>
+                            <ulink url="http://purl.org/au-research/grants/nhmrc/2015584"/>
+                        </para>
+                    </section>
+                    <section>
+                        <title>activity</title>
+                        <para>
+                            <value>Support from HEAL Network, funded by NHMRC Grant No. 2008937</value>
+                            <ulink url="http://purl.org/au-research/grants/nhmrc/2008937"/>
+                        </para>
+                    </section>
+                    <section>
+                        <title>activity</title>
+                        <para>
+                            <value>Award from NHMRC</value>
+                            <ulink url="http://purl.org/au-research/grants/nhmrc/490057"/>
+                        </para>
+                    </section>
+                    <section>
+                        <title>activity</title>
+                        <para>
+                            <value>Award from ARC</value>
+                            <ulink url="http://purl.org/au-research/grants/arc/LP0882048"/>
+                        </para>
+                    </section>
+                </funding>
+            </project>
+        </dataset>
+        <additionalMetadata id="ResearchProjects_CAR/Bushfire_Smoke_PM_Exposures/Total_and_Bushfire_specific_PM25_Aus_2020_2023_v1_3">
+            <describes>datinv_896</describes>
+            <metadata>
+                <citeAs>Hanigan, I., Yuen, C., Gopi, K., Borchers-Arriagada, N., van Buskirk, J. &amp; Morgan, G. (2025): Bushfire specific PM2.5 output from v1.3 based on satellite and other land use and other predictors for Australia 2020-2023 produced for the CAR Bushfire Smoke Exposures project. CAR. Downloaded from CARDAT (Dataset). https://doi.org/10.17605/OSF.IO/47C6B</citeAs>
+            </metadata>
+        </additionalMetadata>
+    </eml:eml>
+    
+</root>
