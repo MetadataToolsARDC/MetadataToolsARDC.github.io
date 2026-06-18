@@ -624,5 +624,112 @@
             </metadata>
         </additionalMetadata>
     </eml:eml>
-    
+    <?xml version="1.0" encoding="UTF-8"?>
+    <eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:stmml="http://www.xml-cml.org/schema/stmml-1.2" packageId="19eeb785-1009-4bf7-9e36-a3063b279991" system="uuid" xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://eml.ecoinformatics.org/eml-2.2.0/eml.xsd">
+        <dataset id="datinv_818">
+            <alternateIdentifier system='doi'>10.17605/OSF.IO/GZM5F</alternateIdentifier>
+            <shortName>AIHW_Summarised_cause_of_death_2000_2019_disaggregated_version_2</shortName>
+            <title>AIHW_Summarised_cause_of_death_2000_2019_disaggregated_version_2</title>
+            <creator>
+                <organizationName>Australian Institute of Health and Welfare (AIHW)</organizationName>
+                <onlineUrl>https://www.aihw.gov.au/</onlineUrl>
+                <userId directory="ROR">https://ror.org/01972fe66</userId>
+            </creator>
+            <associatedParty>
+                <organizationName>
+                    <value>Australian Institute of Health and Welfare (AIHW)</value>
+                </organizationName>
+                <onlineUrl>https://www.aihw.gov.au/</onlineUrl>
+                <userId directory="ROR">https://ror.org/01972fe66</userId>
+                <role>owner</role>
+            </associatedParty>
+            <associatedParty>
+                <organizationName>
+                    <value>Centre for Safe Air</value>
+                </organizationName>
+                <onlineUrl>https://safeair.org.au/</onlineUrl>
+                <userId directory="https://ror.org/">https://ror.org/04ccf0j10</userId>
+                <role>manager</role>
+            </associatedParty>
+            <pubDate>2023-05-15</pubDate>
+            <abstract>Summarised monthly or daily cause of death mortality data. HIGHLY RESTRICTED Note that the underlying data are not permissible for publication. For information Contact Email: car.data@sydney.edu.au&#13;
+                &#13;
+                This data is disaggregated by SA4/LGA/greater capital city aggregations, state, year, month or date of death, sex, age group and selected causes of death (ICD10 code) for 2000-2019.&#13;
+                &#13;
+                Monthly deaths (state, GCC, SA4, LGA) and daily deaths (GCC) for all-cause and non-trauma.&#13;
+                Monthly deaths for respiratory conditions (state, GCC, SA4, LGA)&#13;
+                Daily deaths for respiratory, cardiovascular, and renal diseases (GCC).&#13;
+                &#13;
+                Please read the explanatory notes attached.&#13;
+                &#13;
+                As the LGA and SA4 files are quite large, the rows with zero deaths are removed. The State and GCC files contain all rows of data (including the rows with zero deaths).&#13;
+                &#13;
+                Deaths are counted according to death occurrence, note that some deaths are not registered in the same year that it occurred particularly in November and December (e.g. due to late registration or coronial investigation). Hence, deaths in 2019 are underestimated.&#13;
+                &#13;
+                Deaths registered in 2017 and earlier are based on the final version of cause of death data; deaths registered in 2018 are based on the revised version; deaths registered in 2019 are based on the preliminary version. Revised and preliminary versions are subject to further revision by the ABS.&#13;
+            </abstract>
+            <intellectualRights>RESTRICTED</intellectualRights>
+            <coverage>
+                <geographicCoverage>
+                    <geographicDescription>Australia</geographicDescription>
+                    <boundingCoordinates>
+                        <westBoundingCoordinate>96.8169</westBoundingCoordinate>
+                        <eastBoundingCoordinate>167.998</eastBoundingCoordinate>
+                        <northBoundingCoordinate>-9.1422</northBoundingCoordinate>
+                        <southBoundingCoordinate>-43.7405</southBoundingCoordinate>
+                    </boundingCoordinates>
+                </geographicCoverage>
+                <temporalCoverage>
+                    <rangeOfDates>
+                        <beginDate>
+                            <calendarDate>2000-01-01</calendarDate>
+                        </beginDate>
+                        <endDate>
+                            <calendarDate>2019-12-31</calendarDate>
+                        </endDate>
+                    </rangeOfDates>
+                </temporalCoverage>
+                <taxonomicCoverage>
+                    <taxonomicClassification>
+                        <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Planet and People</taxonRankValue>
+                    </taxonomicClassification>
+                </taxonomicCoverage>
+            </coverage>
+            <contact>
+                <positionName>CARDAT Data Team</positionName>
+                <electronicMailAddress>car.data@curtin.edu.au</electronicMailAddress>
+            </contact>
+            <publisher>
+                <organizationName>Centre for Air pollution, energy and health Research</organizationName>
+            </publisher>
+            <project id="272">
+                <title>Australian_Mortality_AIHW_RESTRICTED</title>
+                <personnel>
+                    <organizationName>Australian Institute of Health and Welfare</organizationName>
+                    <role>principalInvestigator</role>
+                </personnel>
+                <abstract>Australian Mortality AIHW</abstract>
+                <funding><para><value>The National Air Pollution Monitoring Database was supported by the Centre for Safe Air, funded by the National Health and Medical Research Council (NHMRC Grant No. 2015584) and the HEAL Network (NHMRC Grant No. 2008937), as well as additional funding from the following sources:
+                            
+                            - ARDC Bushfire Data Challenge "Assessing the impact of bushfire smoke on health" https://doi.org/10.47486/DC008. (2021)
+                            - ARDC Public Sector Bridges Program "Integrated National Air Pollution and Health Data" https://doi.org/10.47486/PS022 (2021)
+                </value></para>
+                    <section>
+                        <title>activity</title>
+                        <para>
+                            <value>PS022 Award from ARDC</value>
+                            <ulink url="https://doi.org/10.47486/PS022"/>
+                        </para>
+                    </section>
+                </funding>
+            </project>
+        </dataset>
+        <additionalMetadata id="https://doi.org/10.17605/OSF.IO/GZM5F">
+            <describes>datinv_818</describes>
+            <metadata>
+                <citeAs>Australian Institute of Health and Welfare (2023). Deaths data are provided by the AIHW from the National Mortality Database (unpublished). Cause of Death Unit Record File data are provided to the AIHW by the Registries of Births, Deaths and Marriages and the National Coronial Information System (managed by the Victorian Department of Justice) and include cause of death coded by the Australian Bureau of Statistics (ABS). The data are primarily maintained by the AIHW in the National Mortality Database and aggregated data provided to the CARDAT platform for the ARDC funded Integrated National Air Pollution and Health Data https://doi.org/10.47486/PS022 of the Centre for Air pollution, energy, and health Research (CAR). DOI 10.17605/OSF.IO/GZM5F</citeAs>
+            </metadata>
+        </additionalMetadata>
+    </eml:eml>    
 </root>
