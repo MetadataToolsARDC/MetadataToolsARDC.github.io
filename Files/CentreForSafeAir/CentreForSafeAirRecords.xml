@@ -4,6 +4,13 @@
             <alternateIdentifier system='url'>https://napmd.cloud.car-dat.org/__docs__/</alternateIdentifier>
             <shortName>API_for_accessing_NAPMD_National_Air_Pollution_Monitor_Database</shortName>
             <title>API_for_accessing_NAPMD_National_Air_Pollution_Monitor_Database</title>
+            <creator>
+                <organizationName>
+                    <value>Centre for Safe Air</value>
+                </organizationName>
+                <onlineUrl>https://safeair.org.au/</onlineUrl>
+                <userId directory="https://ror.org/">https://ror.org/04ccf0j10</userId>
+            </creator>
             <associatedParty>
                 <organizationName>
                     <value>Centre for Safe Air</value>
