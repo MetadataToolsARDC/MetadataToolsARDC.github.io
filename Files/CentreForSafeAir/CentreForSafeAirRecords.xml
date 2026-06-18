@@ -4,24 +4,30 @@
             <alternateIdentifier system='url'>https://napmd.cloud.car-dat.org/__docs__/</alternateIdentifier>
             <shortName>API_for_accessing_NAPMD_National_Air_Pollution_Monitor_Database</shortName>
             <title>API_for_accessing_NAPMD_National_Air_Pollution_Monitor_Database</title>
-            <creator>
-                <organizationName>Centre for Safe Air (CSA)</organizationName>
+            <associatedParty>
+                <organizationName>
+                    <value>Centre for Safe Air</value>
+                </organizationName>
                 <onlineUrl>https://safeair.org.au/</onlineUrl>
-            </creator>
-            <creator>
+                <userId directory="https://ror.org/">https://ror.org/04ccf0j10</userId>
+                <role>owner</role>
+            </associatedParty>
+            <associatedParty>
                 <individualName>
                     <givenName>Ivan</givenName>
                     <surName>Hanigan</surName>
                 </individualName>
-                <userId directory="ORCID">https://orcid.org/0000-0002-6360-6793</userId>
-            </creator> 
-            <creator>
+                <userId directory="https://orcid.org/">https://orcid.org/0000-0002-6360-6793</userId>
+                <role>owner</role>
+            </associatedParty>
+            <associatedParty>
                 <individualName>
                     <givenName>Grant</givenName>
                     <surName>Williamson</surName>
                 </individualName>
                 <userId directory="ORCID">https://orcid.org/0000-0002-3469-7550</userId>
-            </creator>
+                <role>owner</role>
+            </associatedParty>
             <metadataProvider>
                 <positionName>CARDAT Data Team</positionName>
                 <electronicMailAddress>car.data@curtin.edu.au</electronicMailAddress>
