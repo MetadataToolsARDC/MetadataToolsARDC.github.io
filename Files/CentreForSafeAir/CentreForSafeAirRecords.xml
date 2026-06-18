@@ -731,4 +731,106 @@
             </metadata>
         </additionalMetadata>
     </eml:eml>    
+    <eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:stmml="http://www.xml-cml.org/schema/stmml-1.2" packageId="19eeb785-1009-4bf7-9e36-a3063b279991" system="uuid" xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://eml.ecoinformatics.org/eml-2.2.0/eml.xsd">
+        <dataset id="datinv_822">
+            <alternateIdentifier system='doi'>10.17605/OSF.IO/2768R</alternateIdentifier>
+            <shortName>Drought_National_Grids_1950_2022_RESTRICTED</shortName>
+            <title>Drought_National_Grids_1950_2022_RESTRICTED</title>
+            <creator>
+                <individualName>
+                    <givenName>Ivan</givenName>
+                    <surName>Hanigan</surName>
+                </individualName>
+                <userId directory="ORCID">https://orcid.org/0000-0002-6360-6793</userId>
+            </creator>
+            <pubDate>2023-05-24</pubDate>
+            <abstract>The data and methods are for the 2022 MJA-Lancet Countdown report. The drought method follows that outlined in Watts et al.12 We used the Standardised Precipitation-Evapotranspiration Index (SPEI) calculated on 6-month timescale. In this report we show that the SPEI can also be used to indicate extremely wet periods that may be associated with flooding (as it was in Eastern Australia during the first three months of 2022).&#13;
+                &#13;
+                Data&#13;
+                We used monthly rainfall and temperatures, calculated using the Australian Water Availability Project (AWAP) gridded data January 1950 - March 2022 at 0.05 × 0.05 degree resolution.11&#13;
+                &#13;
+                Methods&#13;
+                This indicator represents the area impacted by excess drought events compared to the 1950-2005 baseline. The drought method follows that outlined in Watts et al.12 We used the Standardised Precipitation-Evapotranspiration Index (SPEI) calculated on 6-month timescale. Due to lack of wind speed data, the potential evapotranspiration (PET) was calculated using the Thornthwaite method rather than the FAO-56 Penman-Monteith method.&#13;
+                We used the algorithm provided in the R package “SPEI” (Santiago Beguería and Sergio M. Vicente-Serrano (2017). SPEI: Calculation of the Standardised Precipitation-Evapotranspiration Index. R package version 1.7. The SPEI is a multiscalar index, which takes into account both precipitation (using the basis of the more commonly used SPI index) and temperature, to estimate potential evapotranspiration. More information on this index and its calculation can be found here: https://CRAN.R-project.org/package=SPEI.</abstract>
+            <additionalInfo>
+                <section>
+                    <title>publication</title>
+                    <para>
+                        <value>The 2022 report of the MJA–Lancet Countdown on health and climate change: Australia unprepared and paying the price</value>
+                        <ulink url="https://doi.org/10.5694/mja2.51742"></ulink>
+                    </para>
+                </section>
+            </additionalInfo>
+            <intellectualRights>RESTRICTED</intellectualRights>
+            <coverage>
+                <geographicCoverage>
+                    <geographicDescription>Australia</geographicDescription>
+                    <boundingCoordinates>
+                        <westBoundingCoordinate>96.8169</westBoundingCoordinate>
+                        <eastBoundingCoordinate>167.998</eastBoundingCoordinate>
+                        <northBoundingCoordinate>-9.1422</northBoundingCoordinate>
+                        <southBoundingCoordinate>-43.7405</southBoundingCoordinate>
+                    </boundingCoordinates>
+                </geographicCoverage>
+                <temporalCoverage>
+                    <rangeOfDates>
+                        <beginDate>
+                            <calendarDate>1950-01-01</calendarDate>
+                        </beginDate>
+                        <endDate>
+                            <calendarDate>2022-04-30</calendarDate>
+                        </endDate>
+                    </rangeOfDates>
+                </temporalCoverage>
+                <taxonomicCoverage>
+                    <taxonomicClassification>
+                        <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Planet and People</taxonRankValue>
+                    </taxonomicClassification>
+                </taxonomicCoverage>
+            </coverage>
+            <contact>
+                <positionName>CARDAT Data Team</positionName>
+                <electronicMailAddress>car.data@curtin.edu.au</electronicMailAddress>
+            </contact>
+            <publisher>
+                <organizationName>Centre for Air pollution, energy and health Research</organizationName>
+            </publisher>
+            <project id="289">
+                <title>DROUGHT-AWAP-GRIDS-RESTRICTED</title>
+                <personnel>
+                    <individualName>
+                        <givenName>Ivan</givenName>
+                        <surName>Hanigan</surName>
+                    </individualName>
+                    <organizationName>Curtin University</organizationName>
+                    <role>principalInvestigator</role>
+                </personnel>
+                <abstract>We calculate the drought indicator using the Standardised Precipitation-Evapotranspiration Index  (SPEI) with AWAP Grid data.</abstract>
+                <funding>
+                    <section>
+                        <title>activity</title>
+                        <para>
+                            <value>PS022 Award from ARDC</value>
+                            <ulink url="https://doi.org/10.47486/PS022"></ulink>
+                        </para>
+                    </section>
+                    <section>
+                        <title>activity</title>
+                        <para>
+                            <value>Environment and population health: research development from local to global [ 2002 - 2007 ]</value>
+                            <ulink url="http://purl.org/au-research/grants/nhmrc/224215"></ulink>
+                        </para>
+                    </section>
+                </funding>
+            </project>
+        </dataset>
+        <additionalMetadata id="https://doi.org/10.17605/OSF.IO/2768R">
+            <describes>datinv_822</describes>
+            <metadata>
+                <citeAs>Hanigan, I. 2022. Drought and Extreme Rainfall using Standardised Precipitation-Evapotranspiration Index (SPEI) 1950-2022. Data downloaded from the Centre for Air pollution, energy and health Research. DOI 10.17605/OSF.IO/2768R</citeAs>
+            </metadata>
+        </additionalMetadata>
+    </eml:eml>
+    
 </root>
