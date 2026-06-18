@@ -624,7 +624,6 @@
             </metadata>
         </additionalMetadata>
     </eml:eml>
-    <?xml version="1.0" encoding="UTF-8"?>
     <eml:eml xmlns:eml="https://eml.ecoinformatics.org/eml-2.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:stmml="http://www.xml-cml.org/schema/stmml-1.2" packageId="19eeb785-1009-4bf7-9e36-a3063b279991" system="uuid" xsi:schemaLocation="https://eml.ecoinformatics.org/eml-2.2.0 https://eml.ecoinformatics.org/eml-2.2.0/eml.xsd">
         <dataset id="datinv_818">
             <alternateIdentifier system='doi'>10.17605/OSF.IO/GZM5F</alternateIdentifier>
