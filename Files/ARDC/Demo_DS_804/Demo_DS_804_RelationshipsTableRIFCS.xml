@@ -1,0 +1,2359 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<registryObjects xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ands.org.au/standards/rif-cs/registryObjects https://researchdata.edu.au/documentation/rifcs/schema/registryObjects.xsd" xmlns="http://ands.org.au/standards/rif-cs/registryObjects">
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_2_From_activity</key>
+    <originatingSource>https://example.org</originatingSource>
+    <activity type="project">
+      <name type="primary">
+        <namePart>activity for RelationshipTable_Vocab_Scenario_Row_2</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_2_To_collection</key>
+        <relation type="enriches"/>
+      </relatedObject>
+      <description type="brief">activity for RelationshipTable_Vocab_Scenario_Row_2</description>
+    </activity>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_2_To_collection</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>collection for RelationshipTable_Vocab_Scenario_Row_2</namePart>
+      </name>
+      <description type="brief">collection for RelationshipTable_Vocab_Scenario_Row_2</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_3_From_activity</key>
+    <originatingSource>https://example.org</originatingSource>
+    <activity type="project">
+      <name type="primary">
+        <namePart>activity for RelationshipTable_Vocab_Scenario_Row_3</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_3_To_any</key>
+        <relation type="hasAssociationWith"/>
+      </relatedObject>
+      <description type="brief">activity for RelationshipTable_Vocab_Scenario_Row_3</description>
+    </activity>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_3_To_any</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>any for RelationshipTable_Vocab_Scenario_Row_3</namePart>
+      </name>
+      <description type="brief">any for RelationshipTable_Vocab_Scenario_Row_3</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_4_From_activity</key>
+    <originatingSource>https://example.org</originatingSource>
+    <activity type="project">
+      <name type="primary">
+        <namePart>activity for RelationshipTable_Vocab_Scenario_Row_4</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_4_To_party</key>
+        <relation type="hasParticipant"/>
+      </relatedObject>
+      <description type="brief">activity for RelationshipTable_Vocab_Scenario_Row_4</description>
+    </activity>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_4_To_party</key>
+    <originatingSource>https://example.org</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>party for RelationshipTable_Vocab_Scenario_Row_4</namePart>
+      </name>
+      <description type="brief">party for RelationshipTable_Vocab_Scenario_Row_4</description>
+    </party>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_5_From_activity</key>
+    <originatingSource>https://example.org</originatingSource>
+    <activity type="project">
+      <name type="primary">
+        <namePart>activity for RelationshipTable_Vocab_Scenario_Row_5</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_5_To_collection</key>
+        <relation type="hasOutput"/>
+      </relatedObject>
+      <description type="brief">activity for RelationshipTable_Vocab_Scenario_Row_5</description>
+    </activity>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_5_To_collection</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>collection for RelationshipTable_Vocab_Scenario_Row_5</namePart>
+      </name>
+      <description type="brief">collection for RelationshipTable_Vocab_Scenario_Row_5</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_6_From_activity</key>
+    <originatingSource>https://example.org</originatingSource>
+    <activity type="project">
+      <name type="primary">
+        <namePart>activity for RelationshipTable_Vocab_Scenario_Row_6</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_6_To_activity</key>
+        <relation type="hasPart"/>
+      </relatedObject>
+      <description type="brief">activity for RelationshipTable_Vocab_Scenario_Row_6</description>
+    </activity>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_6_To_activity</key>
+    <originatingSource>https://example.org</originatingSource>
+    <activity type="project">
+      <name type="primary">
+        <namePart>activity for RelationshipTable_Vocab_Scenario_Row_6</namePart>
+      </name>
+      <description type="brief">activity for RelationshipTable_Vocab_Scenario_Row_6</description>
+    </activity>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_7_From_activity</key>
+    <originatingSource>https://example.org</originatingSource>
+    <activity type="project">
+      <name type="primary">
+        <namePart>activity for RelationshipTable_Vocab_Scenario_Row_7</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_7_To_activity</key>
+        <relation type="isPartOf"/>
+      </relatedObject>
+      <description type="brief">activity for RelationshipTable_Vocab_Scenario_Row_7</description>
+    </activity>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_7_To_activity</key>
+    <originatingSource>https://example.org</originatingSource>
+    <activity type="project">
+      <name type="primary">
+        <namePart>activity for RelationshipTable_Vocab_Scenario_Row_7</namePart>
+      </name>
+      <description type="brief">activity for RelationshipTable_Vocab_Scenario_Row_7</description>
+    </activity>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_8_From_activity</key>
+    <originatingSource>https://example.org</originatingSource>
+    <activity type="project">
+      <name type="primary">
+        <namePart>activity for RelationshipTable_Vocab_Scenario_Row_8</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_8_To_collection</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <description type="brief">activity for RelationshipTable_Vocab_Scenario_Row_8</description>
+    </activity>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_8_To_collection</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>collection for RelationshipTable_Vocab_Scenario_Row_8</namePart>
+      </name>
+      <description type="brief">collection for RelationshipTable_Vocab_Scenario_Row_8</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_9_From_activity</key>
+    <originatingSource>https://example.org</originatingSource>
+    <activity type="project">
+      <name type="primary">
+        <namePart>activity for RelationshipTable_Vocab_Scenario_Row_9</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_9_To_party</key>
+        <relation type="hasParticipant"/>
+      </relatedObject>
+      <description type="brief">activity for RelationshipTable_Vocab_Scenario_Row_9</description>
+    </activity>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_9_To_party</key>
+    <originatingSource>https://example.org</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>party for RelationshipTable_Vocab_Scenario_Row_9</namePart>
+      </name>
+      <description type="brief">party for RelationshipTable_Vocab_Scenario_Row_9</description>
+    </party>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_10_From_activity</key>
+    <originatingSource>https://example.org</originatingSource>
+    <activity type="project">
+      <name type="primary">
+        <namePart>activity for RelationshipTable_Vocab_Scenario_Row_10</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_10_To_party</key>
+        <relation type="hasPrincipalInvestigator"/>
+      </relatedObject>
+      <description type="brief">activity for RelationshipTable_Vocab_Scenario_Row_10</description>
+    </activity>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_10_To_party</key>
+    <originatingSource>https://example.org</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>party for RelationshipTable_Vocab_Scenario_Row_10</namePart>
+      </name>
+      <description type="brief">party for RelationshipTable_Vocab_Scenario_Row_10</description>
+    </party>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_11_From_activity</key>
+    <originatingSource>https://example.org</originatingSource>
+    <activity type="project">
+      <name type="primary">
+        <namePart>activity for RelationshipTable_Vocab_Scenario_Row_11</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_11_To_party</key>
+        <relation type="isFundedBy"/>
+      </relatedObject>
+      <description type="brief">activity for RelationshipTable_Vocab_Scenario_Row_11</description>
+    </activity>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_11_To_party</key>
+    <originatingSource>https://example.org</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>party for RelationshipTable_Vocab_Scenario_Row_11</namePart>
+      </name>
+      <description type="brief">party for RelationshipTable_Vocab_Scenario_Row_11</description>
+    </party>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_12_From_activity</key>
+    <originatingSource>https://example.org</originatingSource>
+    <activity type="project">
+      <name type="primary">
+        <namePart>activity for RelationshipTable_Vocab_Scenario_Row_12</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_12_To_party</key>
+        <relation type="isManagedBy"/>
+      </relatedObject>
+      <description type="brief">activity for RelationshipTable_Vocab_Scenario_Row_12</description>
+    </activity>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_12_To_party</key>
+    <originatingSource>https://example.org</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>party for RelationshipTable_Vocab_Scenario_Row_12</namePart>
+      </name>
+      <description type="brief">party for RelationshipTable_Vocab_Scenario_Row_12</description>
+    </party>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_13_From_activity</key>
+    <originatingSource>https://example.org</originatingSource>
+    <activity type="project">
+      <name type="primary">
+        <namePart>activity for RelationshipTable_Vocab_Scenario_Row_13</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_13_To_party</key>
+        <relation type="isOwnedBy"/>
+      </relatedObject>
+      <description type="brief">activity for RelationshipTable_Vocab_Scenario_Row_13</description>
+    </activity>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_13_To_party</key>
+    <originatingSource>https://example.org</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>party for RelationshipTable_Vocab_Scenario_Row_13</namePart>
+      </name>
+      <description type="brief">party for RelationshipTable_Vocab_Scenario_Row_13</description>
+    </party>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_14_From_activity</key>
+    <originatingSource>https://example.org</originatingSource>
+    <activity type="project">
+      <name type="primary">
+        <namePart>activity for RelationshipTable_Vocab_Scenario_Row_14</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_14_To_party</key>
+        <relation type="isPrincipalInvestigatorOf"/>
+      </relatedObject>
+      <description type="brief">activity for RelationshipTable_Vocab_Scenario_Row_14</description>
+    </activity>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_14_To_party</key>
+    <originatingSource>https://example.org</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>party for RelationshipTable_Vocab_Scenario_Row_14</namePart>
+      </name>
+      <description type="brief">party for RelationshipTable_Vocab_Scenario_Row_14</description>
+    </party>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_15_From_collection</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>collection for RelationshipTable_Vocab_Scenario_Row_15</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_15_To_party</key>
+        <relation type="hasCollector"/>
+      </relatedObject>
+      <description type="brief">collection for RelationshipTable_Vocab_Scenario_Row_15</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_15_To_party</key>
+    <originatingSource>https://example.org</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>party for RelationshipTable_Vocab_Scenario_Row_15</namePart>
+      </name>
+      <description type="brief">party for RelationshipTable_Vocab_Scenario_Row_15</description>
+    </party>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_16_From_collection</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>collection for RelationshipTable_Vocab_Scenario_Row_16</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_16_To_party</key>
+        <relation type="hasPrincipalInvestigator"/>
+      </relatedObject>
+      <description type="brief">collection for RelationshipTable_Vocab_Scenario_Row_16</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_16_To_party</key>
+    <originatingSource>https://example.org</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>party for RelationshipTable_Vocab_Scenario_Row_16</namePart>
+      </name>
+      <description type="brief">party for RelationshipTable_Vocab_Scenario_Row_16</description>
+    </party>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_17_From_collection</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>collection for RelationshipTable_Vocab_Scenario_Row_17</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_17_To_service</key>
+        <relation type="hasValueAddedBy"/>
+      </relatedObject>
+      <description type="brief">collection for RelationshipTable_Vocab_Scenario_Row_17</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_17_To_service</key>
+    <originatingSource>https://example.org</originatingSource>
+    <service type="report">
+      <name type="primary">
+        <namePart>service for RelationshipTable_Vocab_Scenario_Row_17</namePart>
+      </name>
+      <description type="brief">service for RelationshipTable_Vocab_Scenario_Row_17</description>
+    </service>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_18_From_collection</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>collection for RelationshipTable_Vocab_Scenario_Row_18</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_18_To_service</key>
+        <relation type="isAvailableThrough"/>
+      </relatedObject>
+      <description type="brief">collection for RelationshipTable_Vocab_Scenario_Row_18</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_18_To_service</key>
+    <originatingSource>https://example.org</originatingSource>
+    <service type="report">
+      <name type="primary">
+        <namePart>service for RelationshipTable_Vocab_Scenario_Row_18</namePart>
+      </name>
+      <description type="brief">service for RelationshipTable_Vocab_Scenario_Row_18</description>
+    </service>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_19_From_collection</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>collection for RelationshipTable_Vocab_Scenario_Row_19</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_19_To_collection</key>
+        <relation type="describes"/>
+      </relatedObject>
+      <description type="brief">collection for RelationshipTable_Vocab_Scenario_Row_19</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_19_To_collection</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>collection for RelationshipTable_Vocab_Scenario_Row_19</namePart>
+      </name>
+      <description type="brief">collection for RelationshipTable_Vocab_Scenario_Row_19</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_20_From_collection</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>collection for RelationshipTable_Vocab_Scenario_Row_20</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_20_To_any</key>
+        <relation type="hasAssociationWith"/>
+      </relatedObject>
+      <description type="brief">collection for RelationshipTable_Vocab_Scenario_Row_20</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_20_To_any</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>any for RelationshipTable_Vocab_Scenario_Row_20</namePart>
+      </name>
+      <description type="brief">any for RelationshipTable_Vocab_Scenario_Row_20</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_21_From_collection</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>collection for RelationshipTable_Vocab_Scenario_Row_21</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_21_To_party</key>
+        <relation type="isEnrichedBy"/>
+      </relatedObject>
+      <description type="brief">collection for RelationshipTable_Vocab_Scenario_Row_21</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_21_To_party</key>
+    <originatingSource>https://example.org</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>party for RelationshipTable_Vocab_Scenario_Row_21</namePart>
+      </name>
+      <description type="brief">party for RelationshipTable_Vocab_Scenario_Row_21</description>
+    </party>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_22_From_collection</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>collection for RelationshipTable_Vocab_Scenario_Row_22</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_22_To_party</key>
+        <relation type="isFundedBy"/>
+      </relatedObject>
+      <description type="brief">collection for RelationshipTable_Vocab_Scenario_Row_22</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_22_To_party</key>
+    <originatingSource>https://example.org</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>party for RelationshipTable_Vocab_Scenario_Row_22</namePart>
+      </name>
+      <description type="brief">party for RelationshipTable_Vocab_Scenario_Row_22</description>
+    </party>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_23_From_collection</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>collection for RelationshipTable_Vocab_Scenario_Row_23</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_23_To_collection</key>
+        <relation type="hasDerivedCollection"/>
+      </relatedObject>
+      <description type="brief">collection for RelationshipTable_Vocab_Scenario_Row_23</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_23_To_collection</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>collection for RelationshipTable_Vocab_Scenario_Row_23</namePart>
+      </name>
+      <description type="brief">collection for RelationshipTable_Vocab_Scenario_Row_23</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_24_From_collection</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>collection for RelationshipTable_Vocab_Scenario_Row_24</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_24_To_collection</key>
+        <relation type="hasPart"/>
+      </relatedObject>
+      <description type="brief">collection for RelationshipTable_Vocab_Scenario_Row_24</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_24_To_collection</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>collection for RelationshipTable_Vocab_Scenario_Row_24</namePart>
+      </name>
+      <description type="brief">collection for RelationshipTable_Vocab_Scenario_Row_24</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_25_From_collection</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>collection for RelationshipTable_Vocab_Scenario_Row_25</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_25_To_party</key>
+        <relation type="isManagedBy"/>
+      </relatedObject>
+      <description type="brief">collection for RelationshipTable_Vocab_Scenario_Row_25</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_25_To_party</key>
+    <originatingSource>https://example.org</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>party for RelationshipTable_Vocab_Scenario_Row_25</namePart>
+      </name>
+      <description type="brief">party for RelationshipTable_Vocab_Scenario_Row_25</description>
+    </party>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_26_From_collection</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>collection for RelationshipTable_Vocab_Scenario_Row_26</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_26_To_service</key>
+        <relation type="isOperatedOnBy"/>
+      </relatedObject>
+      <description type="brief">collection for RelationshipTable_Vocab_Scenario_Row_26</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_26_To_service</key>
+    <originatingSource>https://example.org</originatingSource>
+    <service type="report">
+      <name type="primary">
+        <namePart>service for RelationshipTable_Vocab_Scenario_Row_26</namePart>
+      </name>
+      <description type="brief">service for RelationshipTable_Vocab_Scenario_Row_26</description>
+    </service>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_27_From_collection</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>collection for RelationshipTable_Vocab_Scenario_Row_27</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_27_To_collection</key>
+        <relation type="hasVersion"/>
+      </relatedObject>
+      <description type="brief">collection for RelationshipTable_Vocab_Scenario_Row_27</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_27_To_collection</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>collection for RelationshipTable_Vocab_Scenario_Row_27</namePart>
+      </name>
+      <description type="brief">collection for RelationshipTable_Vocab_Scenario_Row_27</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_28_From_collection</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>collection for RelationshipTable_Vocab_Scenario_Row_28</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_28_To_collection</key>
+        <relation type="isVersionOf"/>
+      </relatedObject>
+      <description type="brief">collection for RelationshipTable_Vocab_Scenario_Row_28</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_28_To_collection</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>collection for RelationshipTable_Vocab_Scenario_Row_28</namePart>
+      </name>
+      <description type="brief">collection for RelationshipTable_Vocab_Scenario_Row_28</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_29_From_collection</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>collection for RelationshipTable_Vocab_Scenario_Row_29</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_29_To_party</key>
+        <relation type="isOwnedBy"/>
+      </relatedObject>
+      <description type="brief">collection for RelationshipTable_Vocab_Scenario_Row_29</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_29_To_party</key>
+    <originatingSource>https://example.org</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>party for RelationshipTable_Vocab_Scenario_Row_29</namePart>
+      </name>
+      <description type="brief">party for RelationshipTable_Vocab_Scenario_Row_29</description>
+    </party>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_30_From_collection</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>collection for RelationshipTable_Vocab_Scenario_Row_30</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_30_To_collection</key>
+        <relation type="isCitedBy"/>
+      </relatedObject>
+      <description type="brief">collection for RelationshipTable_Vocab_Scenario_Row_30</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_30_To_collection</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>collection for RelationshipTable_Vocab_Scenario_Row_30</namePart>
+      </name>
+      <description type="brief">collection for RelationshipTable_Vocab_Scenario_Row_30</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_31_From_collection</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>collection for RelationshipTable_Vocab_Scenario_Row_31</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_31_To_service</key>
+        <relation type="isPresentedBy"/>
+      </relatedObject>
+      <description type="brief">collection for RelationshipTable_Vocab_Scenario_Row_31</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_31_To_service</key>
+    <originatingSource>https://example.org</originatingSource>
+    <service type="report">
+      <name type="primary">
+        <namePart>service for RelationshipTable_Vocab_Scenario_Row_31</namePart>
+      </name>
+      <description type="brief">service for RelationshipTable_Vocab_Scenario_Row_31</description>
+    </service>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_32_From_collection</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>collection for RelationshipTable_Vocab_Scenario_Row_32</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_32_To_service</key>
+        <relation type="isProducedBy"/>
+      </relatedObject>
+      <description type="brief">collection for RelationshipTable_Vocab_Scenario_Row_32</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_32_To_service</key>
+    <originatingSource>https://example.org</originatingSource>
+    <service type="report">
+      <name type="primary">
+        <namePart>service for RelationshipTable_Vocab_Scenario_Row_32</namePart>
+      </name>
+      <description type="brief">service for RelationshipTable_Vocab_Scenario_Row_32</description>
+    </service>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_33_From_collection</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>collection for RelationshipTable_Vocab_Scenario_Row_33</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_33_To_collection</key>
+        <relation type="isDerivedFrom"/>
+      </relatedObject>
+      <description type="brief">collection for RelationshipTable_Vocab_Scenario_Row_33</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_33_To_collection</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>collection for RelationshipTable_Vocab_Scenario_Row_33</namePart>
+      </name>
+      <description type="brief">collection for RelationshipTable_Vocab_Scenario_Row_33</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_34_From_collection</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>collection for RelationshipTable_Vocab_Scenario_Row_34</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_34_To_collection</key>
+        <relation type="isDescribedBy"/>
+      </relatedObject>
+      <description type="brief">collection for RelationshipTable_Vocab_Scenario_Row_34</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_34_To_collection</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>collection for RelationshipTable_Vocab_Scenario_Row_34</namePart>
+      </name>
+      <description type="brief">collection for RelationshipTable_Vocab_Scenario_Row_34</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_35_From_collection</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>collection for RelationshipTable_Vocab_Scenario_Row_35</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_35_To_collection</key>
+        <relation type="isDocumentedBy"/>
+      </relatedObject>
+      <description type="brief">collection for RelationshipTable_Vocab_Scenario_Row_35</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_35_To_collection</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>collection for RelationshipTable_Vocab_Scenario_Row_35</namePart>
+      </name>
+      <description type="brief">collection for RelationshipTable_Vocab_Scenario_Row_35</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_36_From_collection</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>collection for RelationshipTable_Vocab_Scenario_Row_36</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_36_To_collection</key>
+        <relation type="isLocatedIn"/>
+      </relatedObject>
+      <description type="brief">collection for RelationshipTable_Vocab_Scenario_Row_36</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_36_To_collection</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>collection for RelationshipTable_Vocab_Scenario_Row_36</namePart>
+      </name>
+      <description type="brief">collection for RelationshipTable_Vocab_Scenario_Row_36</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_37_From_collection</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>collection for RelationshipTable_Vocab_Scenario_Row_37</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_37_To_collection</key>
+        <relation type="isLocationFor"/>
+      </relatedObject>
+      <description type="brief">collection for RelationshipTable_Vocab_Scenario_Row_37</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_37_To_collection</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>collection for RelationshipTable_Vocab_Scenario_Row_37</namePart>
+      </name>
+      <description type="brief">collection for RelationshipTable_Vocab_Scenario_Row_37</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_38_From_collection</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>collection for RelationshipTable_Vocab_Scenario_Row_38</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_38_To_service</key>
+        <relation type="supports"/>
+      </relatedObject>
+      <description type="brief">collection for RelationshipTable_Vocab_Scenario_Row_38</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_38_To_service</key>
+    <originatingSource>https://example.org</originatingSource>
+    <service type="report">
+      <name type="primary">
+        <namePart>service for RelationshipTable_Vocab_Scenario_Row_38</namePart>
+      </name>
+      <description type="brief">service for RelationshipTable_Vocab_Scenario_Row_38</description>
+    </service>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_39_From_collection</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>collection for RelationshipTable_Vocab_Scenario_Row_39</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_39_To_activity</key>
+        <relation type="isOutputOf"/>
+      </relatedObject>
+      <description type="brief">collection for RelationshipTable_Vocab_Scenario_Row_39</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_39_To_activity</key>
+    <originatingSource>https://example.org</originatingSource>
+    <activity type="project">
+      <name type="primary">
+        <namePart>activity for RelationshipTable_Vocab_Scenario_Row_39</namePart>
+      </name>
+      <description type="brief">activity for RelationshipTable_Vocab_Scenario_Row_39</description>
+    </activity>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_40_From_collection</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>collection for RelationshipTable_Vocab_Scenario_Row_40</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_40_To_collection</key>
+        <relation type="isPartOf"/>
+      </relatedObject>
+      <description type="brief">collection for RelationshipTable_Vocab_Scenario_Row_40</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_40_To_collection</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>collection for RelationshipTable_Vocab_Scenario_Row_40</namePart>
+      </name>
+      <description type="brief">collection for RelationshipTable_Vocab_Scenario_Row_40</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_41_From_collection</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>collection for RelationshipTable_Vocab_Scenario_Row_41</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_41_To_collection</key>
+        <relation type="isReferencedBy"/>
+      </relatedObject>
+      <description type="brief">collection for RelationshipTable_Vocab_Scenario_Row_41</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_41_To_collection</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>collection for RelationshipTable_Vocab_Scenario_Row_41</namePart>
+      </name>
+      <description type="brief">collection for RelationshipTable_Vocab_Scenario_Row_41</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_42_From_collection</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>collection for RelationshipTable_Vocab_Scenario_Row_42</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_42_To_collection</key>
+        <relation type="isReviewedBy"/>
+      </relatedObject>
+      <description type="brief">collection for RelationshipTable_Vocab_Scenario_Row_42</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_42_To_collection</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>collection for RelationshipTable_Vocab_Scenario_Row_42</namePart>
+      </name>
+      <description type="brief">collection for RelationshipTable_Vocab_Scenario_Row_42</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_43_From_collection</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>collection for RelationshipTable_Vocab_Scenario_Row_43</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_43_To_collection</key>
+        <relation type="isSupplementedBy"/>
+      </relatedObject>
+      <description type="brief">collection for RelationshipTable_Vocab_Scenario_Row_43</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_43_To_collection</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>collection for RelationshipTable_Vocab_Scenario_Row_43</namePart>
+      </name>
+      <description type="brief">collection for RelationshipTable_Vocab_Scenario_Row_43</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_44_From_collection</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>collection for RelationshipTable_Vocab_Scenario_Row_44</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_44_To_collection</key>
+        <relation type="isSupplementTo"/>
+      </relatedObject>
+      <description type="brief">collection for RelationshipTable_Vocab_Scenario_Row_44</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_44_To_collection</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>collection for RelationshipTable_Vocab_Scenario_Row_44</namePart>
+      </name>
+      <description type="brief">collection for RelationshipTable_Vocab_Scenario_Row_44</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_45_From_collection</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>collection for RelationshipTable_Vocab_Scenario_Row_45</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_45_To_collection</key>
+        <relation type="isSupportedBy"/>
+      </relatedObject>
+      <description type="brief">collection for RelationshipTable_Vocab_Scenario_Row_45</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_45_To_collection</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>collection for RelationshipTable_Vocab_Scenario_Row_45</namePart>
+      </name>
+      <description type="brief">collection for RelationshipTable_Vocab_Scenario_Row_45</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_46_From_party</key>
+    <originatingSource>https://example.org</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>party for RelationshipTable_Vocab_Scenario_Row_46</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_46_To_party</key>
+        <relation type="hasMember"/>
+      </relatedObject>
+      <description type="brief">party for RelationshipTable_Vocab_Scenario_Row_46</description>
+    </party>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_46_To_party</key>
+    <originatingSource>https://example.org</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>party for RelationshipTable_Vocab_Scenario_Row_46</namePart>
+      </name>
+      <description type="brief">party for RelationshipTable_Vocab_Scenario_Row_46</description>
+    </party>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_47_From_party</key>
+    <originatingSource>https://example.org</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>party for RelationshipTable_Vocab_Scenario_Row_47</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_47_To_party</key>
+        <relation type="hasPart"/>
+      </relatedObject>
+      <description type="brief">party for RelationshipTable_Vocab_Scenario_Row_47</description>
+    </party>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_47_To_party</key>
+    <originatingSource>https://example.org</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>party for RelationshipTable_Vocab_Scenario_Row_47</namePart>
+      </name>
+      <description type="brief">party for RelationshipTable_Vocab_Scenario_Row_47</description>
+    </party>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_48_From_party</key>
+    <originatingSource>https://example.org</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>party for RelationshipTable_Vocab_Scenario_Row_48</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_48_To_party</key>
+        <relation type="isFundedBy"/>
+      </relatedObject>
+      <description type="brief">party for RelationshipTable_Vocab_Scenario_Row_48</description>
+    </party>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_48_To_party</key>
+    <originatingSource>https://example.org</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>party for RelationshipTable_Vocab_Scenario_Row_48</namePart>
+      </name>
+      <description type="brief">party for RelationshipTable_Vocab_Scenario_Row_48</description>
+    </party>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_49_From_party</key>
+    <originatingSource>https://example.org</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>party for RelationshipTable_Vocab_Scenario_Row_49</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_49_To_collection</key>
+        <relation type="enriches"/>
+      </relatedObject>
+      <description type="brief">party for RelationshipTable_Vocab_Scenario_Row_49</description>
+    </party>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_49_To_collection</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>collection for RelationshipTable_Vocab_Scenario_Row_49</namePart>
+      </name>
+      <description type="brief">collection for RelationshipTable_Vocab_Scenario_Row_49</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_50_From_party</key>
+    <originatingSource>https://example.org</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>party for RelationshipTable_Vocab_Scenario_Row_50</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_50_To_party</key>
+        <relation type="isManagedBy"/>
+      </relatedObject>
+      <description type="brief">party for RelationshipTable_Vocab_Scenario_Row_50</description>
+    </party>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_50_To_party</key>
+    <originatingSource>https://example.org</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>party for RelationshipTable_Vocab_Scenario_Row_50</namePart>
+      </name>
+      <description type="brief">party for RelationshipTable_Vocab_Scenario_Row_50</description>
+    </party>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_51_From_party</key>
+    <originatingSource>https://example.org</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>party for RelationshipTable_Vocab_Scenario_Row_51</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_51_To_party</key>
+        <relation type="isManagerOf"/>
+      </relatedObject>
+      <description type="brief">party for RelationshipTable_Vocab_Scenario_Row_51</description>
+    </party>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_51_To_party</key>
+    <originatingSource>https://example.org</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>party for RelationshipTable_Vocab_Scenario_Row_51</namePart>
+      </name>
+      <description type="brief">party for RelationshipTable_Vocab_Scenario_Row_51</description>
+    </party>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_52_From_party</key>
+    <originatingSource>https://example.org</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>party for RelationshipTable_Vocab_Scenario_Row_52</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_52_To_party</key>
+        <relation type="isMemberOf"/>
+      </relatedObject>
+      <description type="brief">party for RelationshipTable_Vocab_Scenario_Row_52</description>
+    </party>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_52_To_party</key>
+    <originatingSource>https://example.org</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>party for RelationshipTable_Vocab_Scenario_Row_52</namePart>
+      </name>
+      <description type="brief">party for RelationshipTable_Vocab_Scenario_Row_52</description>
+    </party>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_53_From_party</key>
+    <originatingSource>https://example.org</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>party for RelationshipTable_Vocab_Scenario_Row_53</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_53_To_party</key>
+        <relation type="isOwnedBy"/>
+      </relatedObject>
+      <description type="brief">party for RelationshipTable_Vocab_Scenario_Row_53</description>
+    </party>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_53_To_party</key>
+    <originatingSource>https://example.org</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>party for RelationshipTable_Vocab_Scenario_Row_53</namePart>
+      </name>
+      <description type="brief">party for RelationshipTable_Vocab_Scenario_Row_53</description>
+    </party>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_54_From_party</key>
+    <originatingSource>https://example.org</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>party for RelationshipTable_Vocab_Scenario_Row_54</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_54_To_any</key>
+        <relation type="hasAssociationWith"/>
+      </relatedObject>
+      <description type="brief">party for RelationshipTable_Vocab_Scenario_Row_54</description>
+    </party>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_54_To_any</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>any for RelationshipTable_Vocab_Scenario_Row_54</namePart>
+      </name>
+      <description type="brief">any for RelationshipTable_Vocab_Scenario_Row_54</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_55_From_party</key>
+    <originatingSource>https://example.org</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>party for RelationshipTable_Vocab_Scenario_Row_55</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_55_To_party</key>
+        <relation type="isParticipantIn"/>
+      </relatedObject>
+      <description type="brief">party for RelationshipTable_Vocab_Scenario_Row_55</description>
+    </party>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_55_To_party</key>
+    <originatingSource>https://example.org</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>party for RelationshipTable_Vocab_Scenario_Row_55</namePart>
+      </name>
+      <description type="brief">party for RelationshipTable_Vocab_Scenario_Row_55</description>
+    </party>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_56_From_party</key>
+    <originatingSource>https://example.org</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>party for RelationshipTable_Vocab_Scenario_Row_56</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_56_To_party</key>
+        <relation type="isPartOf"/>
+      </relatedObject>
+      <description type="brief">party for RelationshipTable_Vocab_Scenario_Row_56</description>
+    </party>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_56_To_party</key>
+    <originatingSource>https://example.org</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>party for RelationshipTable_Vocab_Scenario_Row_56</namePart>
+      </name>
+      <description type="brief">party for RelationshipTable_Vocab_Scenario_Row_56</description>
+    </party>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_57_From_party</key>
+    <originatingSource>https://example.org</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>party for RelationshipTable_Vocab_Scenario_Row_57</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_57_To_party</key>
+        <relation type="hasMember"/>
+      </relatedObject>
+      <description type="brief">party for RelationshipTable_Vocab_Scenario_Row_57</description>
+    </party>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_57_To_party</key>
+    <originatingSource>https://example.org</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>party for RelationshipTable_Vocab_Scenario_Row_57</namePart>
+      </name>
+      <description type="brief">party for RelationshipTable_Vocab_Scenario_Row_57</description>
+    </party>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_58_From_party</key>
+    <originatingSource>https://example.org</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>party for RelationshipTable_Vocab_Scenario_Row_58</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_58_To_party</key>
+        <relation type="hasPart"/>
+      </relatedObject>
+      <description type="brief">party for RelationshipTable_Vocab_Scenario_Row_58</description>
+    </party>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_58_To_party</key>
+    <originatingSource>https://example.org</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>party for RelationshipTable_Vocab_Scenario_Row_58</namePart>
+      </name>
+      <description type="brief">party for RelationshipTable_Vocab_Scenario_Row_58</description>
+    </party>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_59_From_party</key>
+    <originatingSource>https://example.org</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>party for RelationshipTable_Vocab_Scenario_Row_59</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_59_To_party</key>
+        <relation type="isPartOf"/>
+      </relatedObject>
+      <description type="brief">party for RelationshipTable_Vocab_Scenario_Row_59</description>
+    </party>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_59_To_party</key>
+    <originatingSource>https://example.org</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>party for RelationshipTable_Vocab_Scenario_Row_59</namePart>
+      </name>
+      <description type="brief">party for RelationshipTable_Vocab_Scenario_Row_59</description>
+    </party>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_60_From_party</key>
+    <originatingSource>https://example.org</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>party for RelationshipTable_Vocab_Scenario_Row_60</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_60_To_collection</key>
+        <relation type="isCollectorOf"/>
+      </relatedObject>
+      <description type="brief">party for RelationshipTable_Vocab_Scenario_Row_60</description>
+    </party>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_60_To_collection</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>collection for RelationshipTable_Vocab_Scenario_Row_60</namePart>
+      </name>
+      <description type="brief">collection for RelationshipTable_Vocab_Scenario_Row_60</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_61_From_party</key>
+    <originatingSource>https://example.org</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>party for RelationshipTable_Vocab_Scenario_Row_61</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_61_To_any</key>
+        <relation type="IsFundedBy"/>
+      </relatedObject>
+      <description type="brief">party for RelationshipTable_Vocab_Scenario_Row_61</description>
+    </party>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_61_To_any</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>any for RelationshipTable_Vocab_Scenario_Row_61</namePart>
+      </name>
+      <description type="brief">any for RelationshipTable_Vocab_Scenario_Row_61</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_62_From_party</key>
+    <originatingSource>https://example.org</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>party for RelationshipTable_Vocab_Scenario_Row_62</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_62_To_any</key>
+        <relation type="isFunderOf"/>
+      </relatedObject>
+      <description type="brief">party for RelationshipTable_Vocab_Scenario_Row_62</description>
+    </party>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_62_To_any</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>any for RelationshipTable_Vocab_Scenario_Row_62</namePart>
+      </name>
+      <description type="brief">any for RelationshipTable_Vocab_Scenario_Row_62</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_63_From_party</key>
+    <originatingSource>https://example.org</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>party for RelationshipTable_Vocab_Scenario_Row_63</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_63_To_party</key>
+        <relation type="isManagerOf"/>
+      </relatedObject>
+      <description type="brief">party for RelationshipTable_Vocab_Scenario_Row_63</description>
+    </party>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_63_To_party</key>
+    <originatingSource>https://example.org</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>party for RelationshipTable_Vocab_Scenario_Row_63</namePart>
+      </name>
+      <description type="brief">party for RelationshipTable_Vocab_Scenario_Row_63</description>
+    </party>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_64_From_party</key>
+    <originatingSource>https://example.org</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>party for RelationshipTable_Vocab_Scenario_Row_64</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_64_To_party</key>
+        <relation type="isMemberOf"/>
+      </relatedObject>
+      <description type="brief">party for RelationshipTable_Vocab_Scenario_Row_64</description>
+    </party>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_64_To_party</key>
+    <originatingSource>https://example.org</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>party for RelationshipTable_Vocab_Scenario_Row_64</namePart>
+      </name>
+      <description type="brief">party for RelationshipTable_Vocab_Scenario_Row_64</description>
+    </party>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_65_From_party</key>
+    <originatingSource>https://example.org</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>party for RelationshipTable_Vocab_Scenario_Row_65</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_65_To_any</key>
+        <relation type="isOwnerOf"/>
+      </relatedObject>
+      <description type="brief">party for RelationshipTable_Vocab_Scenario_Row_65</description>
+    </party>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_65_To_any</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>any for RelationshipTable_Vocab_Scenario_Row_65</namePart>
+      </name>
+      <description type="brief">any for RelationshipTable_Vocab_Scenario_Row_65</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_66_From_party</key>
+    <originatingSource>https://example.org</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>party for RelationshipTable_Vocab_Scenario_Row_66</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_66_To_activity</key>
+        <relation type="isParticipantIn"/>
+      </relatedObject>
+      <description type="brief">party for RelationshipTable_Vocab_Scenario_Row_66</description>
+    </party>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_66_To_activity</key>
+    <originatingSource>https://example.org</originatingSource>
+    <activity type="project">
+      <name type="primary">
+        <namePart>activity for RelationshipTable_Vocab_Scenario_Row_66</namePart>
+      </name>
+      <description type="brief">activity for RelationshipTable_Vocab_Scenario_Row_66</description>
+    </activity>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_67_From_party</key>
+    <originatingSource>https://example.org</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>party for RelationshipTable_Vocab_Scenario_Row_67</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_67_To_activity</key>
+        <relation type="isPrincipalInvestigatorOf"/>
+      </relatedObject>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_67_To_collection</key>
+        <relation type="isPrincipalInvestigatorOf"/>
+      </relatedObject>
+      <description type="brief">party for RelationshipTable_Vocab_Scenario_Row_67</description>
+    </party>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_67_To_activity</key>
+    <originatingSource>https://example.org</originatingSource>
+    <activity type="project">
+      <name type="primary">
+        <namePart>activity for RelationshipTable_Vocab_Scenario_Row_67</namePart>
+      </name>
+      <description type="brief">activity for RelationshipTable_Vocab_Scenario_Row_67</description>
+    </activity>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_67_To_collection</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>collection for RelationshipTable_Vocab_Scenario_Row_67</namePart>
+      </name>
+      <description type="brief">collection for RelationshipTable_Vocab_Scenario_Row_67</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_68_From_party</key>
+    <originatingSource>https://example.org</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>party for RelationshipTable_Vocab_Scenario_Row_68</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_68_To_activity</key>
+        <relation type="isPrincipalInvestigator"/>
+      </relatedObject>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_68_To_collection</key>
+        <relation type="isPrincipalInvestigator"/>
+      </relatedObject>
+      <description type="brief">party for RelationshipTable_Vocab_Scenario_Row_68</description>
+    </party>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_68_To_activity</key>
+    <originatingSource>https://example.org</originatingSource>
+    <activity type="project">
+      <name type="primary">
+        <namePart>activity for RelationshipTable_Vocab_Scenario_Row_68</namePart>
+      </name>
+      <description type="brief">activity for RelationshipTable_Vocab_Scenario_Row_68</description>
+    </activity>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_68_To_collection</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>collection for RelationshipTable_Vocab_Scenario_Row_68</namePart>
+      </name>
+      <description type="brief">collection for RelationshipTable_Vocab_Scenario_Row_68</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_69_From_party</key>
+    <originatingSource>https://example.org</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>party for RelationshipTable_Vocab_Scenario_Row_69</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_69_To_any</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <description type="brief">party for RelationshipTable_Vocab_Scenario_Row_69</description>
+    </party>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_69_To_any</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>any for RelationshipTable_Vocab_Scenario_Row_69</namePart>
+      </name>
+      <description type="brief">any for RelationshipTable_Vocab_Scenario_Row_69</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_70_From_party</key>
+    <originatingSource>https://example.org</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>party for RelationshipTable_Vocab_Scenario_Row_70</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_70_To_party</key>
+        <relation type="isManagedBy"/>
+      </relatedObject>
+      <description type="brief">party for RelationshipTable_Vocab_Scenario_Row_70</description>
+    </party>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_70_To_party</key>
+    <originatingSource>https://example.org</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>party for RelationshipTable_Vocab_Scenario_Row_70</namePart>
+      </name>
+      <description type="brief">party for RelationshipTable_Vocab_Scenario_Row_70</description>
+    </party>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_71_From_service</key>
+    <originatingSource>https://example.org</originatingSource>
+    <service type="report">
+      <name type="primary">
+        <namePart>service for RelationshipTable_Vocab_Scenario_Row_71</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_71_To_service</key>
+        <relation type="hasPart"/>
+      </relatedObject>
+      <description type="brief">service for RelationshipTable_Vocab_Scenario_Row_71</description>
+    </service>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_71_To_service</key>
+    <originatingSource>https://example.org</originatingSource>
+    <service type="report">
+      <name type="primary">
+        <namePart>service for RelationshipTable_Vocab_Scenario_Row_71</namePart>
+      </name>
+      <description type="brief">service for RelationshipTable_Vocab_Scenario_Row_71</description>
+    </service>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_72_From_service</key>
+    <originatingSource>https://example.org</originatingSource>
+    <service type="report">
+      <name type="primary">
+        <namePart>service for RelationshipTable_Vocab_Scenario_Row_72</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_72_To_party</key>
+        <relation type="hasPrincipalInvestigator"/>
+      </relatedObject>
+      <description type="brief">service for RelationshipTable_Vocab_Scenario_Row_72</description>
+    </service>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_72_To_party</key>
+    <originatingSource>https://example.org</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>party for RelationshipTable_Vocab_Scenario_Row_72</namePart>
+      </name>
+      <description type="brief">party for RelationshipTable_Vocab_Scenario_Row_72</description>
+    </party>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_73_From_service</key>
+    <originatingSource>https://example.org</originatingSource>
+    <service type="report">
+      <name type="primary">
+        <namePart>service for RelationshipTable_Vocab_Scenario_Row_73</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_73_To_party</key>
+        <relation type="isManagedBy"/>
+      </relatedObject>
+      <description type="brief">service for RelationshipTable_Vocab_Scenario_Row_73</description>
+    </service>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_73_To_party</key>
+    <originatingSource>https://example.org</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>party for RelationshipTable_Vocab_Scenario_Row_73</namePart>
+      </name>
+      <description type="brief">party for RelationshipTable_Vocab_Scenario_Row_73</description>
+    </party>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_74_From_service</key>
+    <originatingSource>https://example.org</originatingSource>
+    <service type="report">
+      <name type="primary">
+        <namePart>service for RelationshipTable_Vocab_Scenario_Row_74</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_74_To_party</key>
+        <relation type="isOwnedBy"/>
+      </relatedObject>
+      <description type="brief">service for RelationshipTable_Vocab_Scenario_Row_74</description>
+    </service>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_74_To_party</key>
+    <originatingSource>https://example.org</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>party for RelationshipTable_Vocab_Scenario_Row_74</namePart>
+      </name>
+      <description type="brief">party for RelationshipTable_Vocab_Scenario_Row_74</description>
+    </party>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_75_From_service</key>
+    <originatingSource>https://example.org</originatingSource>
+    <service type="report">
+      <name type="primary">
+        <namePart>service for RelationshipTable_Vocab_Scenario_Row_75</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_75_To_service</key>
+        <relation type="isPartOf"/>
+      </relatedObject>
+      <description type="brief">service for RelationshipTable_Vocab_Scenario_Row_75</description>
+    </service>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_75_To_service</key>
+    <originatingSource>https://example.org</originatingSource>
+    <service type="report">
+      <name type="primary">
+        <namePart>service for RelationshipTable_Vocab_Scenario_Row_75</namePart>
+      </name>
+      <description type="brief">service for RelationshipTable_Vocab_Scenario_Row_75</description>
+    </service>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_76_From_service</key>
+    <originatingSource>https://example.org</originatingSource>
+    <service type="report">
+      <name type="primary">
+        <namePart>service for RelationshipTable_Vocab_Scenario_Row_76</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_76_To_collection</key>
+        <relation type="addsValueTo"/>
+      </relatedObject>
+      <description type="brief">service for RelationshipTable_Vocab_Scenario_Row_76</description>
+    </service>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_76_To_collection</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>collection for RelationshipTable_Vocab_Scenario_Row_76</namePart>
+      </name>
+      <description type="brief">collection for RelationshipTable_Vocab_Scenario_Row_76</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_77_From_service</key>
+    <originatingSource>https://example.org</originatingSource>
+    <service type="report">
+      <name type="primary">
+        <namePart>service for RelationshipTable_Vocab_Scenario_Row_77</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_77_To_collection</key>
+        <relation type="enriches"/>
+      </relatedObject>
+      <description type="brief">service for RelationshipTable_Vocab_Scenario_Row_77</description>
+    </service>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_77_To_collection</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>collection for RelationshipTable_Vocab_Scenario_Row_77</namePart>
+      </name>
+      <description type="brief">collection for RelationshipTable_Vocab_Scenario_Row_77</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_78_From_service</key>
+    <originatingSource>https://example.org</originatingSource>
+    <service type="report">
+      <name type="primary">
+        <namePart>service for RelationshipTable_Vocab_Scenario_Row_78</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_78_To_any</key>
+        <relation type="hasAssociationWith"/>
+      </relatedObject>
+      <description type="brief">service for RelationshipTable_Vocab_Scenario_Row_78</description>
+    </service>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_78_To_any</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>any for RelationshipTable_Vocab_Scenario_Row_78</namePart>
+      </name>
+      <description type="brief">any for RelationshipTable_Vocab_Scenario_Row_78</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_79_From_service</key>
+    <originatingSource>https://example.org</originatingSource>
+    <service type="report">
+      <name type="primary">
+        <namePart>service for RelationshipTable_Vocab_Scenario_Row_79</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_79_To_any</key>
+        <relation type="isProducedBy"/>
+      </relatedObject>
+      <description type="brief">service for RelationshipTable_Vocab_Scenario_Row_79</description>
+    </service>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_79_To_any</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>any for RelationshipTable_Vocab_Scenario_Row_79</namePart>
+      </name>
+      <description type="brief">any for RelationshipTable_Vocab_Scenario_Row_79</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_80_From_service</key>
+    <originatingSource>https://example.org</originatingSource>
+    <service type="report">
+      <name type="primary">
+        <namePart>service for RelationshipTable_Vocab_Scenario_Row_80</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_80_To_collection</key>
+        <relation type="isSupportedBy"/>
+      </relatedObject>
+      <description type="brief">service for RelationshipTable_Vocab_Scenario_Row_80</description>
+    </service>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_80_To_collection</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>collection for RelationshipTable_Vocab_Scenario_Row_80</namePart>
+      </name>
+      <description type="brief">collection for RelationshipTable_Vocab_Scenario_Row_80</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_81_From_service</key>
+    <originatingSource>https://example.org</originatingSource>
+    <service type="report">
+      <name type="primary">
+        <namePart>service for RelationshipTable_Vocab_Scenario_Row_81</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_81_To_collection</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <description type="brief">service for RelationshipTable_Vocab_Scenario_Row_81</description>
+    </service>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_81_To_collection</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>collection for RelationshipTable_Vocab_Scenario_Row_81</namePart>
+      </name>
+      <description type="brief">collection for RelationshipTable_Vocab_Scenario_Row_81</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_82_From_service</key>
+    <originatingSource>https://example.org</originatingSource>
+    <service type="report">
+      <name type="primary">
+        <namePart>service for RelationshipTable_Vocab_Scenario_Row_82</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_82_To_collection</key>
+        <relation type="operatesOn"/>
+      </relatedObject>
+      <description type="brief">service for RelationshipTable_Vocab_Scenario_Row_82</description>
+    </service>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_82_To_collection</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>collection for RelationshipTable_Vocab_Scenario_Row_82</namePart>
+      </name>
+      <description type="brief">collection for RelationshipTable_Vocab_Scenario_Row_82</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_83_From_service</key>
+    <originatingSource>https://example.org</originatingSource>
+    <service type="report">
+      <name type="primary">
+        <namePart>service for RelationshipTable_Vocab_Scenario_Row_83</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_83_To_collection</key>
+        <relation type="presents"/>
+      </relatedObject>
+      <description type="brief">service for RelationshipTable_Vocab_Scenario_Row_83</description>
+    </service>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_83_To_collection</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>collection for RelationshipTable_Vocab_Scenario_Row_83</namePart>
+      </name>
+      <description type="brief">collection for RelationshipTable_Vocab_Scenario_Row_83</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_84_From_service</key>
+    <originatingSource>https://example.org</originatingSource>
+    <service type="report">
+      <name type="primary">
+        <namePart>service for RelationshipTable_Vocab_Scenario_Row_84</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_Vocab_Scenario_Row_84_To_collection</key>
+        <relation type="produces"/>
+      </relatedObject>
+      <description type="brief">service for RelationshipTable_Vocab_Scenario_Row_84</description>
+    </service>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_Vocab_Scenario_Row_84_To_collection</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>collection for RelationshipTable_Vocab_Scenario_Row_84</namePart>
+      </name>
+      <description type="brief">collection for RelationshipTable_Vocab_Scenario_Row_84</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_NonVocab_Scenario_Row_2_From_collection</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>collection for RelationshipTable_NonVocab_Scenario_Row_2</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_NonVocab_Scenario_Row_2_To_party</key>
+        <relation type="hasCreator"/>
+      </relatedObject>
+      <description type="brief">collection for RelationshipTable_NonVocab_Scenario_Row_2</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_NonVocab_Scenario_Row_2_To_party</key>
+    <originatingSource>https://example.org</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>party for RelationshipTable_NonVocab_Scenario_Row_2</namePart>
+      </name>
+      <description type="brief">party for RelationshipTable_NonVocab_Scenario_Row_2</description>
+    </party>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_NonVocab_Scenario_Row_3_From_collection</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>collection for RelationshipTable_NonVocab_Scenario_Row_3</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_NonVocab_Scenario_Row_3_To_party</key>
+        <relation type="hasAuthor"/>
+      </relatedObject>
+      <description type="brief">collection for RelationshipTable_NonVocab_Scenario_Row_3</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_NonVocab_Scenario_Row_3_To_party</key>
+    <originatingSource>https://example.org</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>party for RelationshipTable_NonVocab_Scenario_Row_3</namePart>
+      </name>
+      <description type="brief">party for RelationshipTable_NonVocab_Scenario_Row_3</description>
+    </party>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_NonVocab_Scenario_Row_4_From_collection</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>collection for RelationshipTable_NonVocab_Scenario_Row_4</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_NonVocab_Scenario_Row_4_To_party</key>
+        <relation type="hasCustodian"/>
+      </relatedObject>
+      <description type="brief">collection for RelationshipTable_NonVocab_Scenario_Row_4</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_NonVocab_Scenario_Row_4_To_party</key>
+    <originatingSource>https://example.org</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>party for RelationshipTable_NonVocab_Scenario_Row_4</namePart>
+      </name>
+      <description type="brief">party for RelationshipTable_NonVocab_Scenario_Row_4</description>
+    </party>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_NonVocab_Scenario_Row_5_From_collection</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>collection for RelationshipTable_NonVocab_Scenario_Row_5</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_NonVocab_Scenario_Row_5_To_party</key>
+        <relation type="hasOriginator"/>
+      </relatedObject>
+      <description type="brief">collection for RelationshipTable_NonVocab_Scenario_Row_5</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_NonVocab_Scenario_Row_5_To_party</key>
+    <originatingSource>https://example.org</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>party for RelationshipTable_NonVocab_Scenario_Row_5</namePart>
+      </name>
+      <description type="brief">party for RelationshipTable_NonVocab_Scenario_Row_5</description>
+    </party>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_NonVocab_Scenario_Row_6_From_collection</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>collection for RelationshipTable_NonVocab_Scenario_Row_6</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_NonVocab_Scenario_Row_6_To_party</key>
+        <relation type="hasProcessor"/>
+      </relatedObject>
+      <description type="brief">collection for RelationshipTable_NonVocab_Scenario_Row_6</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_NonVocab_Scenario_Row_6_To_party</key>
+    <originatingSource>https://example.org</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>party for RelationshipTable_NonVocab_Scenario_Row_6</namePart>
+      </name>
+      <description type="brief">party for RelationshipTable_NonVocab_Scenario_Row_6</description>
+    </party>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_NonVocab_Scenario_Row_7_From_collection</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>collection for RelationshipTable_NonVocab_Scenario_Row_7</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_NonVocab_Scenario_Row_7_To_party</key>
+        <relation type="hasResourceProvider"/>
+      </relatedObject>
+      <description type="brief">collection for RelationshipTable_NonVocab_Scenario_Row_7</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_NonVocab_Scenario_Row_7_To_party</key>
+    <originatingSource>https://example.org</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>party for RelationshipTable_NonVocab_Scenario_Row_7</namePart>
+      </name>
+      <description type="brief">party for RelationshipTable_NonVocab_Scenario_Row_7</description>
+    </party>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_NonVocab_Scenario_Row_8_From_collection</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>collection for RelationshipTable_NonVocab_Scenario_Row_8</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_NonVocab_Scenario_Row_8_To_party</key>
+        <relation type="hasCoInvestigator"/>
+      </relatedObject>
+      <description type="brief">collection for RelationshipTable_NonVocab_Scenario_Row_8</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_NonVocab_Scenario_Row_8_To_party</key>
+    <originatingSource>https://example.org</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>party for RelationshipTable_NonVocab_Scenario_Row_8</namePart>
+      </name>
+      <description type="brief">party for RelationshipTable_NonVocab_Scenario_Row_8</description>
+    </party>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_NonVocab_Scenario_Row_9_From_party</key>
+    <originatingSource>https://example.org</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>party for RelationshipTable_NonVocab_Scenario_Row_9</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_NonVocab_Scenario_Row_9_To_collection</key>
+        <relation type="isCreatorOf"/>
+      </relatedObject>
+      <description type="brief">party for RelationshipTable_NonVocab_Scenario_Row_9</description>
+    </party>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_NonVocab_Scenario_Row_9_To_collection</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>collection for RelationshipTable_NonVocab_Scenario_Row_9</namePart>
+      </name>
+      <description type="brief">collection for RelationshipTable_NonVocab_Scenario_Row_9</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_NonVocab_Scenario_Row_10_From_party</key>
+    <originatingSource>https://example.org</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>party for RelationshipTable_NonVocab_Scenario_Row_10</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_NonVocab_Scenario_Row_10_To_collection</key>
+        <relation type="author"/>
+      </relatedObject>
+      <description type="brief">party for RelationshipTable_NonVocab_Scenario_Row_10</description>
+    </party>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_NonVocab_Scenario_Row_10_To_collection</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>collection for RelationshipTable_NonVocab_Scenario_Row_10</namePart>
+      </name>
+      <description type="brief">collection for RelationshipTable_NonVocab_Scenario_Row_10</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_NonVocab_Scenario_Row_11_From_party</key>
+    <originatingSource>https://example.org</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>party for RelationshipTable_NonVocab_Scenario_Row_11</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_NonVocab_Scenario_Row_11_To_collection</key>
+        <relation type="custodian"/>
+      </relatedObject>
+      <description type="brief">party for RelationshipTable_NonVocab_Scenario_Row_11</description>
+    </party>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_NonVocab_Scenario_Row_11_To_collection</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>collection for RelationshipTable_NonVocab_Scenario_Row_11</namePart>
+      </name>
+      <description type="brief">collection for RelationshipTable_NonVocab_Scenario_Row_11</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_NonVocab_Scenario_Row_12_From_party</key>
+    <originatingSource>https://example.org</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>party for RelationshipTable_NonVocab_Scenario_Row_12</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_NonVocab_Scenario_Row_12_To_collection</key>
+        <relation type="originator"/>
+      </relatedObject>
+      <description type="brief">party for RelationshipTable_NonVocab_Scenario_Row_12</description>
+    </party>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_NonVocab_Scenario_Row_12_To_collection</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>collection for RelationshipTable_NonVocab_Scenario_Row_12</namePart>
+      </name>
+      <description type="brief">collection for RelationshipTable_NonVocab_Scenario_Row_12</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_NonVocab_Scenario_Row_13_From_party</key>
+    <originatingSource>https://example.org</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>party for RelationshipTable_NonVocab_Scenario_Row_13</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_NonVocab_Scenario_Row_13_To_collection</key>
+        <relation type="processor"/>
+      </relatedObject>
+      <description type="brief">party for RelationshipTable_NonVocab_Scenario_Row_13</description>
+    </party>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_NonVocab_Scenario_Row_13_To_collection</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>collection for RelationshipTable_NonVocab_Scenario_Row_13</namePart>
+      </name>
+      <description type="brief">collection for RelationshipTable_NonVocab_Scenario_Row_13</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_NonVocab_Scenario_Row_14_From_party</key>
+    <originatingSource>https://example.org</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>party for RelationshipTable_NonVocab_Scenario_Row_14</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_NonVocab_Scenario_Row_14_To_collection</key>
+        <relation type="resorceProvider"/>
+      </relatedObject>
+      <description type="brief">party for RelationshipTable_NonVocab_Scenario_Row_14</description>
+    </party>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_NonVocab_Scenario_Row_14_To_collection</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>collection for RelationshipTable_NonVocab_Scenario_Row_14</namePart>
+      </name>
+      <description type="brief">collection for RelationshipTable_NonVocab_Scenario_Row_14</description>
+    </collection>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_NonVocab_Scenario_Row_15_From_party</key>
+    <originatingSource>https://example.org</originatingSource>
+    <party type="group">
+      <name type="primary">
+        <namePart>party for RelationshipTable_NonVocab_Scenario_Row_15</namePart>
+      </name>
+      <relatedObject>
+        <key>RelationshipTable_NonVocab_Scenario_Row_15_To_collection</key>
+        <relation type="coInvestigator"/>
+      </relatedObject>
+      <description type="brief">party for RelationshipTable_NonVocab_Scenario_Row_15</description>
+    </party>
+  </registryObject>
+  <registryObject group="RelationshipExamples2026">
+    <key>RelationshipTable_NonVocab_Scenario_Row_15_To_collection</key>
+    <originatingSource>https://example.org</originatingSource>
+    <collection type="collection">
+      <name type="primary">
+        <namePart>collection for RelationshipTable_NonVocab_Scenario_Row_15</namePart>
+      </name>
+      <description type="brief">collection for RelationshipTable_NonVocab_Scenario_Row_15</description>
+    </collection>
+  </registryObject>
+</registryObjects>

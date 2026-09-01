@@ -1,0 +1,543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<registryObjects xmlns="http://ands.org.au/standards/rif-cs/registryObjects" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://ands.org.au/standards/rif-cs/registryObjects https://researchdata.edu.au/documentation/rifcs/schema/registryObjects.xsd">
+<registryObject group="Griffith University">
+    <key>griffith.edu.au/individual:n9bd76959f3e113c712c66db46457e29c</key>
+    <originatingSource>http://griffith.edu.au</originatingSource>
+    <service type="harvest-oaipmh">
+      <identifier type="uri">http://research-hub.griffith.edu.au/individual/n9bd76959f3e113c712c66db46457e29c</identifier>
+      <name type="primary">
+        <namePart>Griffith Research Online (GRO) OAI Protocol</namePart>
+      </name>
+      <relatedObject>
+        <key>griffith.edu.au/individual:n44e18171e7a6b6ce0daa467a8e4d00e2</key>
+        <relation type="isManagedBy"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/individual:n8e1b666a05c37e006400fa04b0019757</key>
+        <relation type="isSupportedBy"/>
+      </relatedObject>
+      <subject type="anzsrc-for">080707</subject>
+      <subject type="local">metadata harvest</subject>
+      <subject type="local">OAI</subject>
+      <subject type="local">Open Archives Initiative</subject>
+      <description type="full">harvest-oaipmh</description>
+      <description type="brief">Griffith Research Online is a static repository gateway which includes a network accessible server that can process the six OAI-PMH requests required by the Open Archives Initiative. The Griffith Research Online repository is managed by the University\'s Scholarly Information and Research to expose metadata to DSpace and other harvest service providers.</description>
+      <relatedInfo type="website">
+        <identifier type="uri">http://www98.griffith.edu.au/dspace-oai/request?verb=Identify</identifier>
+      </relatedInfo>
+    </service>
+  </registryObject>
+<registryObject group="Griffith University">
+    <key>griffith.edu.au/service:54003abbecab937b9af078fb44e85b63</key>
+    <originatingSource type="authoritative">http://www.theopenriver.org.au/</originatingSource>
+    <service type="search-http">
+      <identifier type="uri">http://www.theopenriver.org.au/logan-albert-river/</identifier>
+      <name type="primary">
+        <namePart>The Open River Catalogue</namePart>
+      </name>
+      <description type="full">The Open River Catalogue is a free-to-use web-based platform for searching an online catalogue of Open River datasets and allows researchers to contribute their dataset to the catalouge to help facilitate discoverability, re-use and collaboration. This service is the result of a project supported by the Australian National Data Service (ANDS) through the National Collaborative Research Infrastructure Strategy Program in a partnership with Griffith University.</description>
+      <location>
+        <address>
+          <electronic type="url">
+            <value>http://www.theopenriver.org.au/</value>
+          </electronic>
+        </address>
+      </location>
+      <existenceDates>
+        <startDate dateFormat="W3CDTF">2015-05-30T09:00:00Z</startDate>
+      </existenceDates>
+      <relatedObject>
+        <key>griffith.edu.au/collection:54017cd5eda5fd94da657639d76ebea3</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:22a93ae66517293ed3872faa8f13fa42</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:614f6e9c96279df12b03b41e9b98cad2</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:c6c94ead22b402f305139c267352ea7d</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:5a178b1a3b2949236e712a832b8a8f4a</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:1d6fda2b86e1f69e43043401c45549f8</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:19d7934b6ef47ccb0c51aaf1a4503c01</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:774ad45713fbbef4ce22e3ea3db064f7</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:7d6cb041f4f19dfbe5f84da994c3fc67</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:72ff3fb9895a1ff2667054367e788827</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:1816e6e020d9703e1a5d8d16d5a5a25e</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:7d6cb041f4f19dfbe5f84da994c3fc67</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:ce188d3f38bb459f7b2ffba6a64219b4</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:c29d3f257d377428f71d1906e3b7a2ff</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:742f3605802708fc7124d6441425bc83</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:7bb266caddb5a3ced97ba44459567d63</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:93db1761a39a4ec5118f8b1211b960bc</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:6808eefa9db7b5af36cb08e858a4c032</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:773467cee51491cfa53e5543855b2a77</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:a757ef602cf49112abb9ffde7f9b320a</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:1ca59c59767bf94bc5f62df0a8bbc378</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:bfe4dfe2da70653f17502bdf54a594bb</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:f15f187dce6a507794e2e9b82c4264e6</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:73edd6132961766344bcfad569e9f5e0</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:db70f35ff7687434c996d54d621e200a</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:db70f35ff7687434c996d54d621e200a</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:db70f35ff7687434c996d54d621e200a</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:d512259041d26ed20289e5229a415d6d</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:91f0a3fed3e2a34bc6bdac4d7d1fb487</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:c3ffa7fc0bd0c9a5f8594b1023075c5c</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:22b05f70233e44d6f76892a90afa75ff</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:7c6998e1357ac780871f0ea205ffb63a</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:d7a21973cdeb3180d18ca2f2708966fe</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:2437a316908b338c72be6f903b019994</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:34ab29a6127df840658dae75be6ae42b</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:a2737cdbd22de5a960638523f3e3ea95</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:5f90225d7cb16e363cfe2e2135cf7b0b</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:0e78f88cf91eba5630c10722072c27e2</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:9baee2d3c20c7d18fa08a885c8d30d37</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:9f550bd2d6ab2a9b207e56fa681821e4</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:52831aa76bdce6f90ef82d7698020e63</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:ee1fd4fb4b9d2cf99aac3980cd5dc5db</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:d6a41b258fcace4e9c76f148daa423d4</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:26510f6c286fc4baf21d9fcadec57bff</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:16b56fe664ae264a0e41e2272541abc9</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:c1183ca5083dcb0793758027c79adfd4</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:d2205ed3f8ffc1bde6c6b9e68e25c873</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:8c70bad54b041ef9e159ec00addb3ee1</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:8c70bad54b041ef9e159ec00addb3ee1</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:ddff3e2c74361efb23ee5835f67e8355</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:346ce79285d8fadda37671990377af78</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:6e6372c9cb374bb171477ec65b1b2ff9</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:6e6372c9cb374bb171477ec65b1b2ff9</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:81688c329a19b26fdccbd6250b6854fe</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:338826eaa171d8c1b4a24d0bac6ca209</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:2ca453b5f70479864e651f2c0c93f0b6</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:48f42204ddc14f4e0b23df8df37857ae</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:e7858b381b60418128ce26cd07e93cfe</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:db70f35ff7687434c996d54d621e200a</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:4bac35b15526d5def4128298a784906d</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:a4bf0a6b8c97eff9acda772278715f56</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:432c54c9403a0fc31b2c08e27434c5aa</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:98a3735e0d74d72d7c1837032394f5b9</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:ce57c9292feb7ad9c947fe7c845dbdca</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:ce57c9292feb7ad9c947fe7c845dbdca</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:ce57c9292feb7ad9c947fe7c845dbdca</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:ce57c9292feb7ad9c947fe7c845dbdca</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:77cc13a233ce2ebf3eccaf8095e3cd3e</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:44c892d345b4d451f27a79b9906b45ae</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:39ae7263a2367705ede9b7610a2c7471</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:60eb00e7ac402f68de5f71b7d40a1745</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:831e0d5493593be6c1187efec83386ce</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:a9c85a05b8c925556ef2e5cc89e51b03</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:599df2acbaa6b4b3ac9d6518ff366abd</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:e3f53b75df8d678ec4435322bc319b39</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:daf7589dd00f02e07818d5ff00a25d1f</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:3592248aa26257d68a5a6e02e8900734</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:4bd4150147d236b7d2acfd37f48b85b7</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:db70f35ff7687434c996d54d621e200a</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:8b2acee8f9243c56e9c2c37ef2d4fc45</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:0264ad3346c95119d9caf10316ee0130</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:f8baa0003551c046f0d937ff62a8a7cc</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:d689a373892b4f68176c8ee54ec1172a</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:b59c841b9ecfb5111c95dc8e74f28144</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:09dff01d3a9e1a69834cda68a9aaaeeb</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:915fccdc9b087f40595bfa540f50a0bc</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:dfccd8a0436630c5f65e30773dd96b18</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:d81ca76a3149ea535f27fdd7c4fed08c</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:b2eabf1a94306d3bdfa87f5da1bbb6d7</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:340275c18e159da7302dfda610bfd01e</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:43a142685d53e0f4ecd85fd1861c846a</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:4c21d77e0e0d6bb73d2932350d57002c</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:83578ba62f5e2b3456e01b88ac00a38a</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:7aae344143f9b74a5aa8bcd1b65c8949</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:44c15e117debddac0faba815a1ddf8a2</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:ec4b56e4244392852d12174afd815705</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:00a4f9638f709cc2175b77d959c7a278</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:11635b1a2a245185d11565dd8737f8cb</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:39b4e69bb4d1d33bb437901d1495b2b3</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:27a1d18262e3b27db222a66fa097557a</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:8388d964dc492cdb04a865bbc9b74e35</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:d9b3e9f1e0ab85d567a67484206cc5fb</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:7e924adf389ba25ccda3b47c5c090424</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:0adbf59e836b783b5a2852a3a3b644b8</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:0c5498add0cda840eca23aba36f1f52c</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:f28cfc2e04167c03ab899031c2823e5d</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:16210e916977d129821a08b71450b58e</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:71ca51e39f39710e86c695e12ef58108</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:4b5b53567f75ba6697d24f722b1051d9</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:bab207d16a0e5997b55a3d0d6a6bf9dd</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:bd4734b45b9c335f86aa62fd2fe05ca9</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:27f25a59f0ff7820338f0ae28abe89d6</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:1de50b4b3cdecd5ea458e04d7397aaf3</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:38c9115bb5146f8c24ec87643599f4fe</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:0c8409c1864908f252e5b818c26a18a8</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:0c8409c1864908f252e5b818c26a18a8</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:e7858b381b60418128ce26cd07e93cfe</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:ee77590ecd5535911032762f1433e80b</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:52479bf716ff820a9d703d487dfa4025</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:856cd90f6a066f490300febaec0d656e</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:4f326d5ba6cfa5396cfee3f69001e0db</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:f2ce82b80c3cd208b26834fa82f2dd0d</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+      <relatedObject>
+        <key>griffith.edu.au/collection:ab7bb71ea51fb7391aadc6f72eca9bfe</key>
+        <relation type="makesAvailable"/>
+      </relatedObject>
+    </service>
+  </registryObject>
+</registryObjects>
